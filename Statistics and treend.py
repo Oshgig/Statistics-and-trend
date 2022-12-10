@@ -70,6 +70,8 @@ plt.figure()
 df_countries.plot('Country Name',['1990','1994','1996','1998','2000', '2012'\
                                   ,'2014','2016','2018'], kind='bar')
 plt.xticks(rotation= 45)
+plt.xlabel('Country')
+plt.ylabel('Carbon dioxide emission')
 plt.title('Carbon Dioxide Emission (Kiloton)')
 plt.savefig('Co2 emission.png')
 plt.show()
