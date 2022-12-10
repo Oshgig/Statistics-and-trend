@@ -36,7 +36,7 @@ def data_frame(file, indicator):
     Returns
     -------
     country_data : The country name
-        as a column.
+        as a column and the year in rows.
     year_data : The year 
         as a column and returns the country as a row.
 
