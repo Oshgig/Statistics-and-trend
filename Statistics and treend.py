@@ -73,5 +73,6 @@ plt.xticks(rotation= 45)
 plt.xlabel('Country')
 plt.ylabel('Carbon dioxide emission')
 plt.title('Carbon Dioxide Emission (Kiloton)')
+plt.rcParams["figure.dpi"] = 500
 plt.savefig('Co2 emission.png')
 plt.show()
