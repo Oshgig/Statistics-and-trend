@@ -1,0 +1,766 @@
+Series Name,Country Name,Country Code,1990,1994,1996,1998,2000,2012,2014,2016,2018
+Agricultural land (sq. km),Sri Lanka,LKA,23390,23230,23270,23290,23500,27400,27400,27500,28116
+Agricultural land (sq. km),United Kingdom,GBR,182030,174090,174940,175180,169640,171820,172320,173499.818,173508.616
+Agricultural land (sq. km),Ireland,IRL,56490,43900,43410,44160,44120,45330,44660,44610,45160
+Agricultural land (sq. km),Iceland,ISL,19010,19000,18970,18910,18890,18722,18722,18720,18720
+Agricultural land (sq. km),Australia,AUS,4644370,4691430,4652300,4638810,4554690,3870760,3744230,3426020,3588950
+Agricultural land (sq. km),New Zealand,NZL,161820,151160,149040,149030,154130,112094,111160,106140,104980
+Agricultural land (sq. km),Niger,NER,330470,350000,360000,360000,370000,447820,456820,463970,465970
+Agricultural land (sq. km),Chad,TCD,483000,484200,484300,486300,486300,496850,502360,502380,502380
+Agricultural land (sq. km),Bangladesh,BGD,103860,93580,93270,94340,94000,91230,93150,95022.1,96023
+Agricultural land (sq. km),Haiti,HTI,15970,15950,15900,16900,16900,17700,18400,18400,18400
+Agricultural land (% of land area),Sri Lanka,LKA,37.29867645,37.04353373,37.10731941,37.13921225,37.47408707,43.69319088,43.69319088,44.43151891,45.44807966
+Agricultural land (% of land area),United Kingdom,GBR,75.24077212,71.95883107,72.31017236,72.40937461,70.11945604,71.02054313,71.22721448,71.71488364,71.71852023
+Agricultural land (% of land area),Ireland,IRL,82.00029032,63.72477863,63.01349978,64.1021919,64.04412832,65.8005516,64.82798665,64.75540717,65.55378139
+Agricultural land (% of land area),Iceland,ISL,18.96259352,18.95261845,18.92269327,18.86284289,18.84289277,18.67531172,18.67531172,18.67331671,18.56590301
+Agricultural land (% of land area),Australia,AUS,60.45546256,61.06803952,60.55868685,60.3830884,59.28810382,50.38543145,48.73839866,44.53992579,46.65809501
+Agricultural land (% of land area),New Zealand,NZL,61.45607839,57.4076184,56.60248376,56.59868596,58.53556644,42.5711139,42.21639892,40.30990088,39.86935551
+Agricultural land (% of land area),Niger,NER,26.08905029,27.63085182,28.42030473,28.42030473,29.20975764,35.35328018,36.0637878,36.62824663,36.78613721
+Agricultural land (% of land area),Chad,TCD,38.35768742,38.45298602,38.46092757,38.61975858,38.61975858,39.45759212,39.89517154,39.89675985,39.89675985
+Agricultural land (% of land area),Bangladesh,BGD,79.78796958,71.89060459,71.65245448,72.47445648,72.21325958,70.0852731,71.56026734,72.99846355,73.76738112
+Agricultural land (% of land area),Haiti,HTI,57.94629898,57.87373004,57.69230769,61.32075472,61.32075472,64.22351234,66.76342525,66.76342525,66.76342525
+Arable land (% of land area),Sri Lanka,LKA,14.35177803,14.08068889,14.14447457,14.17636741,14.59097433,20.73034604,20.73034604,21.16555992,22.17121428
+Arable land (% of land area),United Kingdom,GBR,27.3632869,24.43268714,25.20563799,25.84631918,24.2880172,25.67684868,25.76571736,24.90807465,24.95675361
+Arable land (% of land area),Ireland,IRL,5.547975033,5.15604587,5.809261141,6.186674408,5.678618087,7.00551604,6.752503992,6.691827551,6.546668602
+Arable land (% of land area),Iceland,ISL,1.356608479,1.346633416,1.336658354,1.296758105,1.286783042,1.208977556,1.208977556,1.206982544,1.200039671
+Arable land (% of land area),Australia,AUS,2.207151504,2.322611718,2.498340341,2.779115629,3.05546516,4.118219804,4.160251487,3.907556143,4.026770601
+Arable land (% of land area),New Zealand,NZL,10.04519388,6.482852911,5.916979986,5.905586571,5.696707303,1.933082678,2.240704873,2.054612434,1.969161824
+Arable land (% of land area),Niger,NER,8.712402305,10.25104603,11.04049893,11.03970948,11.03260441,12.55230126,13.26280887,13.81542591,13.97331649
+Arable land (% of land area),Chad,TCD,2.599269377,2.692185515,2.700127065,2.858958069,2.858958069,3.692820839,4.129606099,4.129606099,4.129606099
+Arable land (% of land area),Bangladesh,BGD,72.64346624,64.59245602,64.20066067,64.94584006,64.14688484,58.92294692,58.91526465,59.64669279,59.70884228
+Arable land (% of land area),Haiti,HTI,28.30188679,29.0275762,29.0275762,32.65602322,32.65602322,36.28447025,38.82438316,38.82438316,38.82438316
+Rural land area where elevation is below 5 meters (sq. km),Sri Lanka,LKA,1124.245361,0,0,0,1124.245361,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),United Kingdom,GBR,7375,0,0,0,7375,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Ireland,IRL,1163.863281,0,0,0,1163.863281,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Iceland,ISL,1985.891235,0,0,0,1985.891235,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Australia,AUS,44375.9375,0,0,0,44375.9375,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),New Zealand,NZL,2189.741455,0,0,0,2189.741455,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Niger,NER,0,0,0,0,0,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Chad,TCD,0,0,0,0,0,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Bangladesh,BGD,12137.62109,0,0,0,12137.62109,0,0,0,0
+Rural land area where elevation is below 5 meters (sq. km),Haiti,HTI,405.5688477,0,0,0,405.5688477,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Sri Lanka,LKA,1.72634267,0,0,0,1.72634267,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),United Kingdom,GBR,3.043148689,0,0,0,3.043148689,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Ireland,IRL,1.689511283,0,0,0,1.689511283,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Iceland,ISL,2.215974647,0,0,0,2.215974647,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Australia,AUS,0.577938848,0,0,0,0.577938848,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),New Zealand,NZL,0.835935511,0,0,0,0.835935511,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Niger,NER,0,0,0,0,0,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Chad,TCD,0,0,0,0,0,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Bangladesh,BGD,8.989830464,0,0,0,8.989830464,0,0,0,0
+Rural land area where elevation is below 5 meters (% of total land area),Haiti,HTI,1.506136533,0,0,0,1.506136533,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Sri Lanka,LKA,265.604187,0,0,0,265.604187,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),United Kingdom,GBR,2897.067871,0,0,0,2897.067871,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Ireland,IRL,261.7914734,0,0,0,261.7914734,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Iceland,ISL,26.95154762,0,0,0,26.95154762,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Australia,AUS,1739.064575,0,0,0,1739.064575,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),New Zealand,NZL,292.2058411,0,0,0,292.2058411,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Niger,NER,0,0,0,0,0,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Chad,TCD,0,0,0,0,0,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Bangladesh,BGD,873.0510864,0,0,0,873.0510864,0,0,0,0
+Urban land area where elevation is below 5 meters (sq. km),Haiti,HTI,24.11254311,0,0,0,24.11254311,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Sri Lanka,LKA,0.40785033,0,0,0,0.40785033,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),United Kingdom,GBR,1.195418074,0,0,0,1.195418074,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Ireland,IRL,0.380027152,0,0,0,0.380027152,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Iceland,ISL,0.030074128,0,0,0,0.030074128,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Australia,AUS,0.022649053,0,0,0,0.022649053,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),New Zealand,NZL,0.111549808,0,0,0,0.111549808,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Niger,NER,0,0,0,0,0,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Chad,TCD,0,0,0,0,0,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Bangladesh,BGD,0.646632581,0,0,0,0.646632581,0,0,0,0
+Urban land area where elevation is below 5 meters (% of total land area),Haiti,HTI,0.089545295,0,0,0,0.089545295,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Sri Lanka,LKA,2.134193,0,0,0,2.134193,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),United Kingdom,GBR,4.238566763,0,0,0,4.238566763,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Ireland,IRL,2.069538435,0,0,0,2.069538435,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Iceland,ISL,2.246048775,0,0,0,2.246048775,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Australia,AUS,0.600587901,0,0,0,0.600587901,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),New Zealand,NZL,0.947485319,0,0,0,0.947485319,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Niger,NER,0,0,0,0,0,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Chad,TCD,0,0,0,0,0,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Bangladesh,BGD,9.636463045,0,0,0,9.636463045,0,0,0,0
+Land area where elevation is below 5 meters (% of total land area),Haiti,HTI,1.595681828,0,0,0,1.595681828,0,0,0,0
+Forest area (sq. km),Sri Lanka,LKA,23503.3,22767.66,22399.84,22032.02,21664.2,21137,21237.8,21256.6,21193.4
+Forest area (sq. km),United Kingdom,GBR,27780,28484,28836,29188,29540,30974,31358,31590,31730
+Forest area (sq. km),Ireland,IRL,4616.4,5291.28,5628.72,5966.16,6303.6,7340.96,7478.12,7623.5,7740.2
+Forest area (sq. km),Iceland,ISL,170.7,221.74,247.26,272.78,298.3,460.66,474.62,486.6,500.4
+Forest area (sq. km),Australia,AUS,1338822,1330549.6,1326413.4,1322277.2,1318141,1309654.6,1323848.2,1340372,1340051
+Forest area (sq. km),New Zealand,NZL,93722.7,95635.38,96591.72,97548.06,98504.4,98475.16,98469.12,98467.5,98551.5
+Forest area (sq. km),Niger,NER,19450,16982.4,15748.6,14514.8,13281,11790.6,11542.2,11293.8,11045.4
+Forest area (sq. km),Chad,TCD,67300,65792,65038,64284,63530,52740,50180,47690,45350
+Forest area (sq. km),Bangladesh,BGD,19203.3,19203.292,19203.289,19203.285,19203.281,18863.652,18843.884,18834,18834
+Forest area (sq. km),Haiti,HTI,3829.2,3820.12,3815.58,3811.04,3806.5,3721.68,3659.56,3597.4,3535.2
+Forest area (% of land area),Sri Lanka,LKA,37.47934939,36.30626694,35.71972572,35.1331845,34.54664328,33.70594801,33.86668793,34.34411,34.25804992
+Forest area (% of land area),United Kingdom,GBR,11.48266027,11.77365354,11.91915017,12.0646468,12.21014343,12.80287687,12.96160046,13.05749597,13.11536395
+Forest area (% of land area),Ireland,IRL,6.701117724,7.680766439,8.170590797,8.660415155,9.150239512,10.65606039,10.8551604,11.06619248,11.23559297
+Forest area (% of land area),Iceland,ISL,0.170274314,0.221187032,0.246643392,0.272099751,0.29755611,0.459511222,0.473436409,0.485386534,0.496280869
+Forest area (% of land area),Australia,AUS,17.42735899,17.3196777,17.26583705,17.21199641,17.15815576,17.04768884,17.23244601,17.42548771,17.42131456
+Forest area (% of land area),New Zealand,NZL,35.59405264,36.32045118,36.68365045,37.04684972,37.41004899,37.39894421,37.39665034,37.39603509,37.42793665
+Forest area (% of land area),Niger,NER,1.535485908,1.340680508,1.243277808,1.145875109,1.048472409,0.930812347,0.911202337,0.891592327,0.871982316
+Forest area (% of land area),Chad,TCD,5.344663278,5.224904701,5.165025413,5.105146125,5.045266836,4.188373571,3.985069886,3.787325286,3.601493011
+Forest area (% of land area),Bangladesh,BGD,14.75247753,14.75247138,14.75246908,14.75246601,14.75246293,14.49155105,14.47636475,14.46877161,14.46877161
+Forest area (% of land area),Haiti,HTI,13.89404935,13.86110305,13.8446299,13.82815675,13.8116836,13.50391872,13.27851959,13.05297533,12.82728592
+Agricultural irrigated land (% of total agricultural land),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+Agricultural irrigated land (% of total agricultural land),United Kingdom,GBR,0,0,0,0,0,0,0,0,0.413905094
+Agricultural irrigated land (% of total agricultural land),Ireland,IRL,0,0,0,0,0,0,0,0,0
+Agricultural irrigated land (% of total agricultural land),Iceland,ISL,0,0,0,0,0,0,0,0,0.00267094
+Agricultural irrigated land (% of total agricultural land),Australia,AUS,0,0,0,0,0,0.553121351,0.630650361,0.626674684,0.640298695
+Agricultural irrigated land (% of total agricultural land),New Zealand,NZL,0,0,0,0,0,0,6.297229219,0,0
+Agricultural irrigated land (% of total agricultural land),Niger,NER,0,0,0,0,0,0.19621723,0,0,0.392446295
+Agricultural irrigated land (% of total agricultural land),Chad,TCD,0,0,0,0,0,0,0,0,0
+Agricultural irrigated land (% of total agricultural land),Bangladesh,BGD,0,0,0,0,0,0,57.99248524,57.77603315,57.86753174
+Agricultural irrigated land (% of total agricultural land),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Average precipitation in depth (mm per year),Sri Lanka,LKA,0,0,0,0,0,1712,0,0,1712
+Average precipitation in depth (mm per year),United Kingdom,GBR,0,0,0,0,0,1220,0,0,1220
+Average precipitation in depth (mm per year),Ireland,IRL,0,0,0,0,0,1118,0,0,1118
+Average precipitation in depth (mm per year),Iceland,ISL,0,0,0,0,0,1940,0,0,1940
+Average precipitation in depth (mm per year),Australia,AUS,0,0,0,0,0,534,0,0,534
+Average precipitation in depth (mm per year),New Zealand,NZL,0,0,0,0,0,1732,0,0,1732
+Average precipitation in depth (mm per year),Niger,NER,0,0,0,0,0,151,0,0,151
+Average precipitation in depth (mm per year),Chad,TCD,0,0,0,0,0,322,0,0,322
+Average precipitation in depth (mm per year),Bangladesh,BGD,0,0,0,0,0,2666,0,0,2666
+Average precipitation in depth (mm per year),Haiti,HTI,0,0,0,0,0,1440,0,0,1440
+Cereal yield (kg per hectare),Sri Lanka,LKA,2965,2902,3008.5,3400.1,3338.2,3582.9,3801.9,3845.3,3777.1
+Cereal yield (kg per hectare),United Kingdom,GBR,6170.9,6556.8,7299.9,6661.4,7164.8,6215.1,7696.5,7022.6,6788.7
+Cereal yield (kg per hectare),Ireland,IRL,6577.4,5988.3,7322,6236.6,7795.7,6741.2,8471.4,8222.8,6839.5
+Cereal yield (kg per hectare),Iceland,ISL,0,0,0,0,0,0,0,3212.6,2600
+Cereal yield (kg per hectare),Australia,AUS,1716.1,1266.7,2129.5,1986.3,1962.3,2231.6,2137.9,2075.2,2035.8
+Cereal yield (kg per hectare),New Zealand,NZL,5034,5593.4,5774.3,6294.4,6316.5,8012,8033.9,8383.8,8064.2
+Cereal yield (kg per hectare),Niger,NER,310.3,267.9,291,389.5,289.2,520.3,446.8,536.5,554.7
+Cereal yield (kg per hectare),Chad,TCD,559.2,746.5,601.3,685.2,531.3,934.8,855.7,844.7,893
+Cereal yield (kg per hectare),Bangladesh,BGD,2490.6,2475.9,2694.2,2865.3,3384.4,4395.8,4540.9,4601,4791
+Cereal yield (kg per hectare),Haiti,HTI,1026.7,923.9,974,913.6,931.8,1077,953.8,1021.8,842.2
+Access to electricity (% of population),Sri Lanka,LKA,0,0,0,0,70.26280212,87,92.66051483,97.5,99.56487274
+Access to electricity (% of population),United Kingdom,GBR,100,100,100,100,100,100,100,100,100
+Access to electricity (% of population),Ireland,IRL,100,100,100,100,100,100,100,100,100
+Access to electricity (% of population),Iceland,ISL,100,100,100,100,100,100,100,100,100
+Access to electricity (% of population),Australia,AUS,100,100,100,100,100,100,100,100,100
+Access to electricity (% of population),New Zealand,NZL,100,100,100,100,100,100,100,100,100
+Access to electricity (% of population),Niger,NER,0,4.57177639,7,6.7,6.481481552,14.39999962,15.77054214,17.27152061,17.60000038
+Access to electricity (% of population),Chad,TCD,0,0,0,2.420387268,3.179881334,7.835405827,8.405685425,9.263847351,10.11404037
+Access to electricity (% of population),Bangladesh,BGD,0,17.8,21.14438629,26.74619293,32,66.15557098,62.40000153,75.91999817,91.80000305
+Access to electricity (% of population),Haiti,HTI,0,0,30.01301765,31.09697533,33.70000076,37.90000153,39.49641037,40.40000153,44.96234512
+Electricity production from coal sources (% of total),Sri Lanka,LKA,0,0,0,0,0,11.79732796,25.69617206,0,0
+Electricity production from coal sources (% of total),United Kingdom,GBR,64.96766377,49.63971891,42.15961044,34.64643471,32.66777963,40.05150157,30.31169753,0,0
+Electricity production from coal sources (% of total),Ireland,IRL,41.59111673,39.71951509,36.95560254,32.28278571,28.79651924,18.51074021,15.33245505,0,0
+Electricity production from coal sources (% of total),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Electricity production from coal sources (% of total),Australia,AUS,78.73508462,81.12030341,82.16781836,84.00002051,83.02757977,68.5549644,61.16432507,0,0
+Electricity production from coal sources (% of total),New Zealand,NZL,2.057957539,1.985595822,2.569023661,3.884398596,3.939154585,8.022320622,4.505229284,0,0
+Electricity production from coal sources (% of total),Niger,NER,0,0,0,0,65.53398058,63.65914787,55.75620767,0,0
+Electricity production from coal sources (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+Electricity production from coal sources (% of total),Bangladesh,BGD,0,0,0,0,0,1.927432972,1.969737667,0,0
+Electricity production from coal sources (% of total),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Electricity production from hydroelectric sources (% of total),Sri Lanka,LKA,99.84126984,93.2072031,71.78807947,68.88967095,45.64534552,27.66154105,36.52997352,0,0
+Electricity production from hydroelectric sources (% of total),United Kingdom,GBR,1.638683892,1.567268879,0.971335164,1.417418349,1.358530885,1.468100414,1.757567262,0,0
+Electricity production from hydroelectric sources (% of total),Ireland,IRL,4.898446834,5.467078678,3.816067653,4.387393428,3.573691547,2.954939022,2.747210167,0,0
+Electricity production from hydroelectric sources (% of total),Iceland,ISL,93.21507761,94.45606695,93.14854577,89.49211909,82.71733472,70.30030201,71.03128621,0,0
+Electricity production from hydroelectric sources (% of total),Australia,AUS,9.169923584,9.783512493,8.691580877,7.887949379,7.795524721,5.585644424,7.405826056,0,0
+Electricity production from hydroelectric sources (% of total),New Zealand,NZL,71.85185185,74.12699779,71.77912428,67.31096459,62.25443983,51.73730345,55.89472474,0,0
+Electricity production from hydroelectric sources (% of total),Niger,NER,0,0,0,0,0,0,0,0,0
+Electricity production from hydroelectric sources (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+Electricity production from hydroelectric sources (% of total),Bangladesh,BGD,11.43300569,8.656991006,6.440648423,6.714795839,4.749223258,1.600016474,1.052914316,0,0
+Electricity production from hydroelectric sources (% of total),Haiti,HTI,76.54941374,82.91814947,44.95867769,46.15384615,51.73674589,20.09090909,8.712487899,0,0
+Electricity production from natural gas sources (% of total),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+Electricity production from natural gas sources (% of total),United Kingdom,GBR,1.572909946,16.38586689,24.07182097,32.62416258,39.55312187,27.72195817,30.09159153,0,0
+Electricity production from natural gas sources (% of total),Ireland,IRL,27.69695692,26.47967673,33.25052854,30.7740205,39.12896549,52.08724807,48.95768754,0,0
+Electricity production from natural gas sources (% of total),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Electricity production from natural gas sources (% of total),Australia,AUS,9.306681704,7.297405619,7.020166408,6.632174301,7.740727328,19.34307151,21.90974124,0,0
+Electricity production from natural gas sources (% of total),New Zealand,NZL,17.6971951,15.70973573,18.13944562,20.28873764,24.38912528,20.01852521,16.15906218,0,0
+Electricity production from natural gas sources (% of total),Niger,NER,0,0,0,0,0,0,0,0,0
+Electricity production from natural gas sources (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+Electricity production from natural gas sources (% of total),Bangladesh,BGD,84.26021728,84.63818479,87.10127244,84.58313926,88.78320969,84.135744,82.01092309,0,0
+Electricity production from natural gas sources (% of total),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),United Kingdom,GBR,20.6917279,27.16168652,27.1020546,27.55241928,22.72133556,19.55754204,19.01262478,0,0
+Electricity production from nuclear sources (% of total),Ireland,IRL,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Australia,AUS,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),New Zealand,NZL,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Niger,NER,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+Electricity production from nuclear sources (% of total),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Electricity production from oil sources (% of total),Sri Lanka,LKA,0.158730159,6.7927969,28.21192053,31.11032905,54.19760137,58.96143181,35.10151673,0,0
+Electricity production from oil sources (% of total),United Kingdom,GBR,10.91281018,4.564893669,4.919656583,2.620202227,2.256026711,0.69474345,0.565475569,0,0
+Electricity production from oil sources (% of total),Ireland,IRL,10.03584229,16.85286427,14.20190275,23.22540473,19.59194019,0.869533179,1.003564786,0,0
+Electricity production from oil sources (% of total),Iceland,ISL,0.133037694,0.10460251,0.097599063,0.079605158,0.065070276,0.017094991,0.016553551,0,0
+Electricity production from oil sources (% of total),Australia,AUS,2.302203037,1.387817119,1.582287407,0.933755173,0.850074334,1.509310735,2.019221474,0,0
+Electricity production from oil sources (% of total),New Zealand,NZL,0.030993336,0.060256521,0.043868067,0.002658726,0,0.006777517,0.006895759,0,0
+Electricity production from oil sources (% of total),Niger,NER,0,0,0,0,34.46601942,36.34085213,43.34085779,0,0
+Electricity production from oil sources (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+Electricity production from oil sources (% of total),Bangladesh,BGD,4.306777031,6.704824203,6.458079135,8.702064897,6.467567053,12.33680656,14.69961501,0,0
+Electricity production from oil sources (% of total),Haiti,HTI,20.60301508,17.08185053,55.04132231,53.84615385,48.26325411,79.90909091,91.2875121,0,0
+Renewable electricity output (% of total electricity output),Sri Lanka,LKA,99.84126984,93.2072031,71.78807947,68.88967095,45.80239863,29.24124023,39.20231121,0,0
+Renewable electricity output (% of total electricity output),United Kingdom,GBR,1.828767447,2.139841981,1.627480225,2.395320692,2.663105175,11.42396018,19.26285368,0,0
+Renewable electricity output (% of total electricity output),Ireland,IRL,4.898446834,5.579985738,4.032769556,5.603985056,5.005702699,19.36553554,24.75976441,0,0
+Renewable electricity output (% of total electricity output),Iceland,ISL,99.86696231,99.89539749,99.90240094,99.92039484,99.93492972,99.98290501,99.98344645,0,0
+Renewable electricity output (% of total electricity output),Australia,AUS,9.656030644,10.19447386,9.229727824,8.434050016,8.381618572,10.59265336,14.90671221,0,0
+Renewable electricity output (% of total electricity output),New Zealand,NZL,80.00619867,82.05216493,79.06396512,75.6460704,71.50100645,71.8665281,79.20239053,0,0
+Renewable electricity output (% of total electricity output),Niger,NER,0,0,0,0,0,0,0.902934537,0,0
+Renewable electricity output (% of total electricity output),Chad,TCD,0,0,0,0,0,0,0,0,0
+Renewable electricity output (% of total electricity output),Bangladesh,BGD,11.43300569,8.656991006,6.440648423,6.714795839,4.749223258,1.600016474,1.319724237,0,0
+Renewable electricity output (% of total electricity output),Haiti,HTI,79.39698492,82.91814947,44.95867769,46.15384615,51.73674589,20.09090909,8.712487899,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Sri Lanka,LKA,0,0,0,0,11000000,188000000,333000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",United Kingdom,GBR,604000000,1861000000,2292000000,3531000000,4884000000,35840000000,58694000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Ireland,IRL,0,19000000,41000000,254000000,339000000,4454000000,5681000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Iceland,ISL,300000000,260000000,346000000,655000000,1323000000,5209000000,5247000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Australia,AUS,750000000,687000000,954000000,1065000000,1230000000,12573000000,18622000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",New Zealand,NZL,2631000000,2762000000,2657000000,3135000000,3629000000,8910000000,10140000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Niger,NER,0,0,0,0,0,0,4000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Chad,TCD,0,0,0,0,0,0,0,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Bangladesh,BGD,0,0,0,0,0,0,149000000,0,0
+"Electricity production from renewable sources, excluding hydroelectric (kWh)",Haiti,HTI,17000000,0,0,0,0,0,0,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Sri Lanka,LKA,0,0,0,0,0.157053113,1.579699185,2.672337694,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",United Kingdom,GBR,0.190083555,0.572573102,0.656145062,0.977902343,1.30457429,9.955859762,17.50528642,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Ireland,IRL,0,0.11290706,0.216701903,1.216591628,1.432011152,16.41059651,22.01255425,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Iceland,ISL,6.651884701,5.439330544,6.753855163,10.42827575,17.217595,29.682603,28.95216024,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Australia,AUS,0.48610706,0.410961362,0.538146947,0.546100636,0.586093851,5.007008936,7.500886153,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",New Zealand,NZL,8.154346815,7.92516714,7.284840841,8.335105817,9.246566617,20.12922465,23.30766579,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Niger,NER,0,0,0,0,0,0,0.902934537,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Chad,TCD,0,0,0,0,0,0,0,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Bangladesh,BGD,0,0,0,0,0,0,0.26680992,0,0
+"Electricity production from renewable sources, excluding hydroelectric (% of total)",Haiti,HTI,2.847571189,0,0,0,0,0,0,0,0
+Renewable energy consumption (% of total final energy consumption),Sri Lanka,LKA,78.0872449,70.58093407,64.41196104,64.15051139,64.16,60.7,57.31,50.92,51.4
+Renewable energy consumption (% of total final energy consumption),United Kingdom,GBR,0.651133978,1.021428484,0.943586897,1.029704324,0.96,4.77,7.36,8.6,10.99
+Renewable energy consumption (% of total final energy consumption),Ireland,IRL,2.279781342,2.175584613,1.934751442,2.27773144,2.04,6.64,8.55,8.59,10.78
+Renewable energy consumption (% of total final energy consumption),Iceland,ISL,54.67215495,54.13755312,52.25319555,57.21244566,60.66,77.82,76.99,80.25,80.71
+Renewable energy consumption (% of total final energy consumption),Australia,AUS,8.009577159,8.259946779,8.86597056,8.595072694,8.42,8.29,9.32,9.42,9.67
+Renewable energy consumption (% of total final energy consumption),New Zealand,NZL,30.03059277,30.19779515,29.44858311,29.5896025,29.13,31.02,31.09,31.83,30.73
+Renewable energy consumption (% of total final energy consumption),Niger,NER,0,0,0,0,87.62,72.71,78.08,80.25,82
+Renewable energy consumption (% of total final energy consumption),Chad,TCD,98.1635271,98.12368375,98.08858357,97.60122419,88.7,79.73,76.86,77.77,77.7
+Renewable energy consumption (% of total final energy consumption),Bangladesh,BGD,71.6649713,68.97990719,62.1240766,60.23397129,59.06,37.31,35.32,30.49,26.88
+Renewable energy consumption (% of total final energy consumption),Haiti,HTI,81.1195732,95.03960073,82.18016366,79.30019636,80.85,82.19,77.77,76.13,76.25
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Sri Lanka,LKA,82.09252637,70.22512949,74.08294981,70.05789382,74.52580977,51.43766536,45.10904391,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",United Kingdom,GBR,115.226527,114.3617733,113.7800747,103.1923143,97.28212539,71.17044974,62.77948198,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Ireland,IRL,106.6833214,99.3770788,90.78212821,84.00092015,75.56198301,53.78508247,47.540039,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Iceland,ISL,0,0,252.6911157,231.6055291,267.0698461,363.9549675,355.1210517,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Australia,AUS,163.188054,158.6937528,159.9283947,154.8003927,147.682931,120.2842813,112.9442498,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",New Zealand,NZL,137.4988021,140.6359901,136.123372,136.3127588,135.1809218,112.3708525,112.8296517,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Niger,NER,0,0,0,0,139.0080916,117.9132904,133.1318153,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Chad,TCD,0,0,0,0,0,0,0,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Bangladesh,BGD,68.70265748,66.40368916,66.14224454,65.54192668,62.35064438,58.13347786,55.13588013,0,0
+"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",Haiti,HTI,62.608852,71.7427362,84.81712377,85.2236482,80.68605773,133.5782011,128.3644882,0,0
+Electric power consumption (kWh per capita),Sri Lanka,LKA,151.4507091,199.674221,204.4939673,249.1839978,294.819265,524.3084455,531.0905766,0,0
+Electric power consumption (kWh per capita),United Kingdom,GBR,5356.57521,5380.264265,5815.828404,5908.87149,6114.529259,5449.259473,5130.390253,0,0
+Electric power consumption (kWh per capita),Ireland,IRL,3767.529299,4351.064203,4787.890617,5201.610905,5796.055581,5651.008483,5672.064134,0,0
+Electric power consumption (kWh per capita),Iceland,ISL,16148.27372,17066.32183,17358.58037,21321.16024,26201.52558,53202.83366,53832.47909,0,0
+Electric power consumption (kWh per capita),Australia,AUS,8527.228085,8812.489499,9108.29556,9783.442895,10193.91218,10407.74031,10071.39898,0,0
+Electric power consumption (kWh per capita),New Zealand,NZL,8972.310649,8927.900552,9072.883173,9125.032765,9384.348187,9360.949162,9012.731097,0,0
+Electric power consumption (kWh per capita),Niger,NER,0,0,0,0,32.74041414,49.33912268,51.19494192,0,0
+Electric power consumption (kWh per capita),Chad,TCD,0,0,0,0,0,0,0,0,0
+Electric power consumption (kWh per capita),Bangladesh,BGD,49.78096907,71.07650003,81.93800239,88.8143929,104.6077366,283.4660589,320.2099233,0,0
+Electric power consumption (kWh per capita),Haiti,HTI,58.82423985,18.67851358,33.85183698,36.94334212,35.79951421,46.14219092,39.05580876,0,0
+Energy use (kg of oil equivalent per capita),Sri Lanka,LKA,318.3802116,321.4809118,365.8742253,381.3590331,443.4263345,551.0207099,515.5110213,0,0
+Energy use (kg of oil equivalent per capita),United Kingdom,GBR,3597.051621,3732.521114,3879.822786,3787.108452,3785.753126,3042.859871,2777.310987,0,0
+Energy use (kg of oil equivalent per capita),Ireland,IRL,2820.410168,2941.613242,3122.335609,3417.568527,3626.747161,2853.064865,2741.574884,0,0
+Energy use (kg of oil equivalent per capita),Iceland,ISL,8907.791984,8293.412926,8847.785182,9036.654297,11091.54887,17630.07147,17916.12042,0,0
+Energy use (kg of oil equivalent per capita),Australia,AUS,5061.508459,5089.788967,5393.580635,5553.653466,5644.064951,5575.287093,5334.681679,0,0
+Energy use (kg of oil equivalent per capita),New Zealand,NZL,3854.366028,4055.200552,4131.236334,4162.869201,4430.227856,4357.809714,4553.026901,0,0
+Energy use (kg of oil equivalent per capita),Niger,NER,0,0,0,0,129.6496573,127.9081353,150.0136537,0,0
+Energy use (kg of oil equivalent per capita),Chad,TCD,0,0,0,0,0,0,0,0,0
+Energy use (kg of oil equivalent per capita),Bangladesh,BGD,123.4619791,129.6307985,135.9485331,141.9769719,143.0538058,219.9726616,229.2505403,0,0
+Energy use (kg of oil equivalent per capita),Haiti,HTI,221.7236213,188.9489495,246.4203267,250.7121991,237.5172529,397.2574369,393.6746843,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Sri Lanka,LKA,0.696133666,0.991915459,1.244025775,1.216140172,1.312678759,1.495388818,1.643126392,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),United Kingdom,GBR,2.703395406,2.478828229,2.413444412,2.370369142,2.377725995,2.4097302,2.312163896,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Ireland,IRL,3.127885727,3.116026688,3.079895826,3.047667266,3.088315386,2.827147874,2.783968072,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Iceland,ISL,0.859054679,0.947320805,0.954057708,0.868171929,0.714972977,0.328956328,0.349502096,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Australia,AUS,3.051803743,3.066412574,3.033458616,3.153171923,3.134205068,3.043656097,2.953480086,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),New Zealand,NZL,1.738314955,1.653970558,1.653935257,1.721516552,1.726106156,1.666349031,1.545924561,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Niger,NER,0,0,0,0,0.45605129,0.830348764,0.686001753,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Chad,TCD,0,0,0,0,0,0,0,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Bangladesh,BGD,0.904393799,0.926491329,1.05162234,1.105169985,1.185525549,1.745785827,1.801079824,0,0
+CO2 intensity (kg per kg of oil equivalent energy use),Haiti,HTI,0.653648383,0.132270528,0.545381391,0.639182783,0.731234508,0.613910475,0.736838582,0,0
+CO2 emissions from gaseous fuel consumption (kt),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (kt),United Kingdom,GBR,108110.494,137919.537,173977.148,181802.526,200174.196,152044.821,137281.479,158960.783,0
+CO2 emissions from gaseous fuel consumption (kt),Ireland,IRL,4290.39,5023.79,6072.552,6417.25,7869.382,9211.504,8525.775,9713.883,0
+CO2 emissions from gaseous fuel consumption (kt),Iceland,ISL,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (kt),Australia,AUS,33875.746,35712.913,38496.166,40344.334,44147.013,65430.281,72606.6,79122.859,0
+CO2 emissions from gaseous fuel consumption (kt),New Zealand,NZL,8870.473,9281.177,10010.91,9523.199,11587.72,8793.466,10062.248,9640.543,0
+CO2 emissions from gaseous fuel consumption (kt),Niger,NER,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (kt),Chad,TCD,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (kt),Bangladesh,BGD,7583.356,11481.377,13509.228,14334.303,16893.869,41748.795,45969.512,53593.205,0
+CO2 emissions from gaseous fuel consumption (kt),Haiti,HTI,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (% of total),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (% of total),United Kingdom,GBR,19.4202328,25.76057397,31.94233981,34.62707388,37.76016675,32.55220112,33.09183536,41.95433582,0
+CO2 emissions from gaseous fuel consumption (% of total),Ireland,IRL,13.83996774,15.26523853,17.36006861,16.59490561,18.46405913,24.82885175,23.98248945,25.09398863,0
+CO2 emissions from gaseous fuel consumption (% of total),Iceland,ISL,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (% of total),Australia,AUS,12.85119347,12.81548534,12.84961648,12.31286517,13.03002066,16.96095627,19.62977182,20.60705777,0
+CO2 emissions from gaseous fuel consumption (% of total),New Zealand,NZL,39.7600762,38.22560544,39.25847059,34.83247623,39.28040678,27.47099656,31.65224284,30.91899615,0
+CO2 emissions from gaseous fuel consumption (% of total),Niger,NER,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+CO2 emissions from gaseous fuel consumption (% of total),Bangladesh,BGD,65.82774306,84.79598966,80.3164566,74.46391169,78.03172748,71.99309364,72.05252665,72.67860727,0
+CO2 emissions from gaseous fuel consumption (% of total),Haiti,HTI,0,0,0,0,0,0,0,0,0
+CO2 emissions (kg per 2015 US$ of GDP),Sri Lanka,LKA,0.176782138,0.215481172,0.285095109,0.263562024,0.302626729,0.238228271,0.229285571,0.260387941,0.240763679
+CO2 emissions (kg per 2015 US$ of GDP),United Kingdom,GBR,0.311828781,0.281103313,0.272813523,0.243093861,0.229791649,0.170383501,0.144254651,0.125950276,0.114918368
+CO2 emissions (kg per 2015 US$ of GDP),Ireland,IRL,0.384296667,0.356104977,0.320941075,0.293301805,0.268526334,0.175485553,0.152531424,0.130472141,0.106563506
+CO2 emissions (kg per 2015 US$ of GDP),Iceland,ISL,0,0,0.237399782,0.198002357,0.188031315,0.117896686,0.122219891,0.087533506,0.083530653
+CO2 emissions (kg per 2015 US$ of GDP),Australia,AUS,0.417815222,0.410418757,0.408618927,0.410657863,0.389015741,0.308065579,0.28114992,0.277458069,0.265085672
+CO2 emissions (kg per 2015 US$ of GDP),New Zealand,NZL,0.253801082,0.246487596,0.238221951,0.247722093,0.247350206,0.19945291,0.186264346,0.168801761,0.163588286
+CO2 emissions (kg per 2015 US$ of GDP),Niger,NER,0.147642659,0.137288165,0.148464013,0.14604881,0.148160673,0.228824473,0.231771238,0.206058533,0.169164535
+CO2 emissions (kg per 2015 US$ of GDP),Chad,TCD,0.155921142,0.157978958,0.159769389,0.147675438,0.0925596,0.197238842,0.212097376,0.215286568,0.214811043
+CO2 emissions (kg per 2015 US$ of GDP),Bangladesh,BGD,0.218041383,0.215894402,0.244233184,0.254188618,0.259393852,0.356143561,0.348641648,0.355960846,0.349121528
+CO2 emissions (kg per 2015 US$ of GDP),Haiti,HTI,0.091545968,0.021227572,0.103476838,0.121855316,0.131981927,0.177572331,0.208815175,0.222487071,0.20903093
+CO2 emissions (kt),Sri Lanka,LKA,3840,5770,8360,8610,10930,16850.00038,17600.00038,21930.00031,21690.00053
+CO2 emissions (kt),United Kingdom,GBR,561770,535180,545480,526000,530890,467779.9988,415600.0061,380809.9976,360730.011
+CO2 emissions (kt),Ireland,IRL,30960,32820,34820,38420,42530,37130.00107,35529.99878,38819.99969,37659.99985
+CO2 emissions (kt),Iceland,ISL,1950,2090,2270,2150,2230,1860.000014,2049.999952,1629.999995,1700.000048
+CO2 emissions (kt),Australia,AUS,263630,280180,300810,328620,339450,386970.0012,371630.0049,384989.9902,387070.0073
+CO2 emissions (kt),New Zealand,NZL,22310,24230,25410,27180,29450,32110.00061,31969.99931,31190.00053,32360.00061
+CO2 emissions (kt),Niger,NER,570,550,610,670,670,1889.999986,2150.000095,2109.999895,1950.000048
+CO2 emissions (kt),Chad,TCD,390,430,450,470,290,1860.000014,2259.99999,2210.000038,2190.000057
+CO2 emissions (kt),Bangladesh,BGD,11520,13540,16830,19250,21650,57990.00168,63830.00183,74379.99725,83449.99695
+CO2 emissions (kt),Haiti,HTI,1020,190,1060,1310,1470,2420.000076,3019.999981,3359.999895,3289.999962
+CO2 emissions from liquid fuel consumption (kt),Sri Lanka,LKA,3670.667,5056.793,6593.266,7385.338,9732.218,13113.192,13102.191,16486.832,0
+CO2 emissions from liquid fuel consumption (kt),United Kingdom,GBR,204358.243,210639.814,201424.643,193470.92,193925.628,164545.624,161381.003,167816.588,0
+CO2 emissions from liquid fuel consumption (kt),Ireland,IRL,12933.509,15394.066,16395.157,19970.482,21939.661,16780.192,16794.86,18687.032,0
+CO2 emissions from liquid fuel consumption (kt),Iceland,ISL,1694.154,1712.489,1925.175,1793.163,1719.823,1448.465,1653.817,1686.82,0
+CO2 emissions from liquid fuel consumption (kt),Australia,AUS,82800.86,87692.638,93849.531,87193.926,90985.604,122514.47,120196.926,118909.809,0
+CO2 emissions from liquid fuel consumption (kt),New Zealand,NZL,9629.542,12262.448,14374.64,15474.74,16347.486,18107.646,18390.005,19479.104,0
+CO2 emissions from liquid fuel consumption (kt),Niger,NER,370.367,341.031,366.7,425.372,447.374,1342.122,1646.483,1631.815,0
+CO2 emissions from liquid fuel consumption (kt),Chad,TCD,377.701,407.037,436.373,462.042,487.711,850.744,902.082,916.75,0
+CO2 emissions from liquid fuel consumption (kt),Bangladesh,BGD,5342.819,5896.536,7168.985,8258.084,7693.366,14891.687,15797.436,15449.071,0
+CO2 emissions from liquid fuel consumption (kt),Haiti,HTI,876.413,183.35,1019.426,1232.112,1342.122,2163.53,2709.913,2878.595,0
+CO2 emissions from liquid fuel consumption (% of total),Sri Lanka,LKA,95.59028646,87.63939341,78.86681818,85.77628339,89.04133577,77.91557932,74.44426705,75.17935249,0
+CO2 emissions from liquid fuel consumption (% of total),United Kingdom,GBR,36.70952289,39.34324773,36.98172126,36.84949812,36.58145854,35.22857412,38.90104929,44.29163821,0
+CO2 emissions from liquid fuel consumption (% of total),Ireland,IRL,41.72099677,46.77625646,46.87008862,51.64334626,51.47738386,45.22962803,47.24292546,48.27443038,0
+CO2 emissions from liquid fuel consumption (% of total),Iceland,ISL,86.87969231,81.93727273,84.80947137,83.40293023,77.12210762,77.87446237,80.674,81.48888889,0
+CO2 emissions from liquid fuel consumption (% of total),Australia,AUS,31.41155539,31.46827359,31.32598919,26.6110987,26.85446238,31.75842341,32.49619498,30.96932206,0
+CO2 emissions from liquid fuel consumption (% of total),New Zealand,NZL,43.16244733,50.50431631,56.37113725,56.60109729,55.41520678,56.56871603,57.84839572,62.47307248,0
+CO2 emissions from liquid fuel consumption (% of total),Niger,NER,61.72783333,58.79844828,57.296875,60.76742857,66.77223881,71.01174603,83.15570707,82.83324873,0
+CO2 emissions from liquid fuel consumption (% of total),Chad,TCD,96.84641026,96.91357143,96.97177778,98.30680851,95.62960784,95.58921348,95.96617021,89.87745098,0
+CO2 emissions from liquid fuel consumption (% of total),Bangladesh,BGD,46.37863715,43.54901034,42.62178954,42.89913766,35.53517783,25.67974996,24.76087147,20.95073366,0
+CO2 emissions from liquid fuel consumption (% of total),Haiti,HTI,85.92284314,96.5,96.17226415,94.05435115,91.30081633,86.5412,88.55924837,84.66455882,0
+CO2 emissions (metric tons per capita),Sri Lanka,LKA,0.221635184,0.318881886,0.455156967,0.46378604,0.582076331,0.824969419,0.847049783,1.034287615,1.00092296
+CO2 emissions (metric tons per capita),United Kingdom,GBR,9.812990193,9.248649611,9.377833976,8.993429855,9.014558285,7.343460282,6.43320778,5.804004752,5.427748177
+CO2 emissions (metric tons per capita),Ireland,IRL,8.810537585,9.141078424,9.572482275,10.34827522,11.17688705,8.072558903,7.628162753,8.163462657,7.737323783
+CO2 emissions (metric tons per capita),Iceland,ISL,7.65228038,7.856522605,8.441297654,7.84536959,7.930157714,5.799523611,6.261721492,4.859303764,4.819673475
+CO2 emissions (metric tons per capita),Australia,AUS,15.44848844,15.69196304,16.42783027,17.5629309,17.7230721,17.02204223,15.83042152,15.91465712,15.49352925
+CO2 emissions (metric tons per capita),New Zealand,NZL,6.700102108,6.693370166,6.808681672,7.124508519,7.634082484,7.284317645,7.078489829,6.616321362,6.603273193
+CO2 emissions (metric tons per capita),Niger,NER,0.07101395,0.059989206,0.062076405,0.063532883,0.059126893,0.106208361,0.11174531,0.101497009,0.086887436
+CO2 emissions (metric tons per capita),Chad,TCD,0.065400579,0.063411943,0.062060628,0.060488648,0.034707038,0.145485857,0.165403428,0.151768434,0.141493648
+CO2 emissions (metric tons per capita),Bangladesh,BGD,0.111658248,0.120101811,0.143051512,0.156908688,0.169593942,0.384025166,0.413092687,0.470827565,0.517113005
+CO2 emissions (metric tons per capita),Haiti,HTI,0.144929287,0.024992377,0.134393061,0.160250921,0.173680812,0.236076333,0.286282868,0.309963776,0.295778642
+CO2 emissions (kg per PPP $ of GDP),Sri Lanka,LKA,0.096186182,0.106048145,0.134955654,0.121282476,0.134281338,0.079976249,0.075247456,0.084609732,0.076014335
+CO2 emissions (kg per PPP $ of GDP),United Kingdom,GBR,0.574376391,0.468344622,0.426868058,0.37973375,0.340529326,0.190669764,0.15471656,0.130031719,0.114091869
+CO2 emissions (kg per PPP $ of GDP),Ireland,IRL,0.64143225,0.537627208,0.467509965,0.412404886,0.370026282,0.174122175,0.149284178,0.114176537,0.091505715
+CO2 emissions (kg per PPP $ of GDP),Iceland,ISL,0,0,0.340802109,0.273156868,0.266299503,0.138069275,0.136133351,0.0908614,0.084243383
+CO2 emissions (kg per PPP $ of GDP),Australia,AUS,0.889525541,0.780925688,0.746417205,0.725422112,0.672779125,0.397370792,0.337673192,0.336780314,0.308825598
+CO2 emissions (kg per PPP $ of GDP),New Zealand,NZL,0.450760352,0.391440999,0.368631615,0.368240836,0.354847446,0.220813114,0.18980565,0.165683174,0.155295297
+CO2 emissions (kg per PPP $ of GDP),Niger,NER,0.093080403,0.078288674,0.081431906,0.077872718,0.076175166,0.091664107,0.097806267,0.088002702,0.070693063
+CO2 emissions (kg per PPP $ of GDP),Chad,TCD,0.093749358,0.085917569,0.083576443,0.075095252,0.045385679,0.084057294,0.098625235,0.091178905,0.087667557
+CO2 emissions (kg per PPP $ of GDP),Bangladesh,BGD,0.13142932,0.117710216,0.12808109,0.129583692,0.127510833,0.13072624,0.122650178,0.102115879,0.097166256
+CO2 emissions (kg per PPP $ of GDP),Haiti,HTI,0.06757806,0.014173798,0.066456376,0.07607674,0.079453866,0.085459344,0.09653849,0.100505958,0.091263667
+CO2 emissions (kg per 2017 PPP $ of GDP),Sri Lanka,LKA,0.057147371,0.069657392,0.092161099,0.085200219,0.097828448,0.077010719,0.074119862,0.084174151,0.077830326
+CO2 emissions (kg per 2017 PPP $ of GDP),United Kingdom,GBR,0.314345441,0.283371999,0.275015306,0.245055787,0.231646217,0.171758606,0.14541888,0.126966776,0.115845834
+CO2 emissions (kg per 2017 PPP $ of GDP),Ireland,IRL,0.333262666,0.308814788,0.278320598,0.254351781,0.232866454,0.152181344,0.132275488,0.113145643,0.092412037
+CO2 emissions (kg per 2017 PPP $ of GDP),Iceland,ISL,0,0,0.241081907,0.201073419,0.190947723,0.11972529,0.124115549,0.088891171,0.084826232
+CO2 emissions (kg per 2017 PPP $ of GDP),Australia,AUS,0.498074593,0.489257319,0.487111754,0.489542356,0.463742933,0.367242813,0.335156846,0.330755816,0.316006768
+CO2 emissions (kg per 2017 PPP $ of GDP),New Zealand,NZL,0.239016224,0.232128776,0.224344635,0.233291359,0.232941135,0.187834035,0.175413754,0.15896843,0.154058659
+CO2 emissions (kg per 2017 PPP $ of GDP),Niger,NER,0.063173172,0.058742703,0.063524612,0.062491198,0.063394819,0.097909154,0.099170013,0.08816809,0.072381928
+CO2 emissions (kg per 2017 PPP $ of GDP),Chad,TCD,0.065153936,0.066013824,0.066761982,0.061708347,0.038677386,0.082419142,0.088627999,0.089960649,0.089761944
+CO2 emissions (kg per 2017 PPP $ of GDP),Bangladesh,BGD,0.062134257,0.061522442,0.069598016,0.07243497,0.073918282,0.101488605,0.099350819,0.101436537,0.099487568
+CO2 emissions (kg per 2017 PPP $ of GDP),Haiti,HTI,0.040924175,0.00948945,0.046257681,0.054473489,0.05900043,0.079380897,0.093347516,0.09945932,0.093443966
+CO2 emissions from solid fuel consumption (kt),Sri Lanka,LKA,3.667,7.334,3.667,3.667,3.667,1921.508,3883.353,5529.836,0
+CO2 emissions from solid fuel consumption (kt),United Kingdom,GBR,236125.464,185799.556,165026.001,145836.59,137380.488,145642.239,114509.409,45012.425,0
+CO2 emissions from solid fuel consumption (kt),Ireland,IRL,13179.198,11444.707,11474.043,11166.015,10113.586,9002.485,7686.032,8060.066,0
+CO2 emissions from solid fuel consumption (kt),Iceland,ISL,242.022,256.69,242.022,249.356,370.367,352.032,330.03,374.034,0
+CO2 emissions from solid fuel consumption (kt),Australia,AUS,143001.999,151150.073,166089.431,185403.52,189976.269,195443.766,163449.191,172598.356,0
+CO2 emissions from solid fuel consumption (kt),New Zealand,NZL,4569.082,4602.085,3652.332,4407.734,4433.403,6439.252,5507.834,4532.412,0
+CO2 emissions from solid fuel consumption (kt),Niger,NER,223.687,227.354,264.024,264.024,227.354,385.035,399.703,359.366,0
+CO2 emissions from solid fuel consumption (kt),Chad,TCD,0,0,0,0,0,0,0,0,0
+CO2 emissions from solid fuel consumption (kt),Bangladesh,BGD,1070.764,99.009,678.395,352.032,1254.114,3424.978,3509.319,6226.566,0
+CO2 emissions from solid fuel consumption (kt),Haiti,HTI,33.003,0,0,0,0,0,0,0,0
+CO2 emissions from solid fuel consumption (% of total),Sri Lanka,LKA,0.095494792,0.127105719,0.043863636,0.042590012,0.033549863,11.41715983,22.06450568,25.21585043,0
+CO2 emissions from solid fuel consumption (% of total),United Kingdom,GBR,42.41597011,34.70359103,30.29890225,27.77681085,25.91497925,31.18143337,27.60260552,11.88007733,0
+CO2 emissions from solid fuel consumption (% of total),Ireland,IRL,42.51354194,34.77577332,32.80172384,28.87513576,23.72967152,24.26545822,21.62034318,20.82166365,0
+CO2 emissions from solid fuel consumption (% of total),Iceland,ISL,12.41138462,12.28181818,10.66176211,11.59795349,16.60838565,18.92645161,16.09902439,18.06927536,0
+CO2 emissions from solid fuel consumption (% of total),Australia,AUS,54.24962026,54.23980802,55.43891018,56.58411768,56.07162392,50.66328797,44.18978885,44.95217106,0
+CO2 emissions from solid fuel consumption (% of total),New Zealand,NZL,20.47997311,18.95422158,14.32287059,16.12192392,15.02848475,20.11637613,17.32568103,14.53627967,0
+CO2 emissions from solid fuel consumption (% of total),Niger,NER,37.28116667,39.19896552,41.25375,37.71771429,33.93343284,20.37222222,20.1870202,18.24192893,0
+CO2 emissions from solid fuel consumption (% of total),Chad,TCD,0,0,0,0,0,0,0,0,0
+CO2 emissions from solid fuel consumption (% of total),Bangladesh,BGD,9.294826389,0.731233383,4.033263971,1.828737662,5.792674365,5.906152785,5.5005,8.443946298,0
+CO2 emissions from solid fuel consumption (% of total),Haiti,HTI,3.235588235,0,0,0,0,0,0,0,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Sri Lanka,LKA,-289.5339189,-261.3237305,-256.9641724,-205.1066895,-203.9194946,1903.997925,2332.518188,4415.309204,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",United Kingdom,GBR,-1713.732422,3923.607422,5554.486328,5233.582031,-1527.890625,21393.38672,21276.23242,27049.65234,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Ireland,IRL,-1498.42749,-1454.435303,-975.6118164,-956.3117676,-313.192627,1747.984009,1626.653564,883.4353027,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Iceland,ISL,101.9171546,-363.868556,-393.5456104,-283.9712276,-424.635675,-1479.899954,-1446.306786,-1573.884163,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Australia,AUS,-6368.110352,-9208.109375,-8971.488281,-10248.73828,-14652.55273,-20663.68164,-22586.55273,-17268.70508,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",New Zealand,NZL,-503.7698975,-1768.067139,-2398.550537,-2612.421631,-3291.389648,0.263183594,-88.08349609,-646.2021484,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Niger,NER,-141.947401,-319.6704826,-306.3953686,-280.286478,-365.3045731,234.2985229,279.2150116,431.5255127,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Chad,TCD,-16.92957401,-168.1757898,-167.938962,-130.8588724,-62.95726204,-36.19479752,-71.45373154,-70.94107819,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Bangladesh,BGD,-1915.082886,-2686.609375,-3339.780762,-3055.157227,-4120.265137,-1652.130859,-325.2832031,1513.770508,0
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",Haiti,HTI,-111.1367035,-213.4739094,-209.5044937,-180.5901031,-82.2862854,398.8745117,317.5891724,533.1030884,0
+Other greenhouse gas emissions (% change from 1990),Sri Lanka,LKA,0,-0.203514099,-0.305316943,-55.10359458,-49.46631359,-89.5872016,0,0,0
+Other greenhouse gas emissions (% change from 1990),United Kingdom,GBR,0,15.20858262,18.13200261,-38.25675786,-41.21200914,-2.697704775,0,0,0
+Other greenhouse gas emissions (% change from 1990),Ireland,IRL,0,-3.778969182,-4.492385787,-96.26228636,-91.28785718,-87.74596475,0,0,0
+Other greenhouse gas emissions (% change from 1990),Iceland,ISL,0,-5.10721036,-5.10753193,-99.31451994,-97.10479805,-98.59388156,0,0,0
+Other greenhouse gas emissions (% change from 1990),Australia,AUS,0,29.54899007,-20.28745926,1210.583519,1640.207622,483.463359,0,0,0
+Other greenhouse gas emissions (% change from 1990),New Zealand,NZL,0,-7.354911029,-5.64336798,-75.24746156,-73.15653034,-68.54921546,0,0,0
+Other greenhouse gas emissions (% change from 1990),Niger,NER,0,0,0,0,0,0,0,0,0
+Other greenhouse gas emissions (% change from 1990),Chad,TCD,0,0,-4.50E-12,459071.5,541580,381645.5,0,0,0
+Other greenhouse gas emissions (% change from 1990),Bangladesh,BGD,0,0,0,-99.52973404,-93.27911559,-86.98176446,0,0,0
+Other greenhouse gas emissions (% change from 1990),Haiti,HTI,0,-2.22225,-3.33325,-100,793.4025,1951.6675,0,0,0
+Total greenhouse gas emissions (kt of CO2 equivalent),Sri Lanka,LKA,23900,26600.00038,26590.00015,22129.99916,20809.99947,29120.00084,29379.99916,33869.99893,33689.99863
+Total greenhouse gas emissions (kt of CO2 equivalent),United Kingdom,GBR,746350,715940.0024,729559.9976,707369.9951,685570.0073,568539.978,511660.0037,476540.0085,453429.9927
+Total greenhouse gas emissions (kt of CO2 equivalent),Ireland,IRL,56480,59259.99832,61419.99817,66139.99939,71059.99756,62310.00137,61529.99878,66000,63700.00076
+Total greenhouse gas emissions (kt of CO2 equivalent),Iceland,ISL,3340,3069.999933,3250,3369.999886,3380.000114,3029.999971,3259.99999,2839.999914,2910.000086
+Total greenhouse gas emissions (kt of CO2 equivalent),Australia,AUS,487000,495779.9988,500980.011,536320.0073,596960.022,667440.0024,597270.0195,574450.0122,617390.0146
+Total greenhouse gas emissions (kt of CO2 equivalent),New Zealand,NZL,71130,72300.00305,73900.00153,74760.00214,77199.99695,82180.00031,82330.00183,80809.99756,81809.99756
+Total greenhouse gas emissions (kt of CO2 equivalent),Niger,NER,12870,14970.00027,16299.99924,17819.99969,19010.00023,31170.00008,34639.99939,37540.00092,40819.99969
+Total greenhouse gas emissions (kt of CO2 equivalent),Chad,TCD,15410,24670.00008,28700.00076,30129.99916,34770.00046,57470.00122,62759.99832,72230.00336,78830.00183
+Total greenhouse gas emissions (kt of CO2 equivalent),Bangladesh,BGD,94240,100669.9982,106379.9973,108690.0024,115459.9991,172839.9963,181850.0061,193960.0067,208000
+Total greenhouse gas emissions (kt of CO2 equivalent),Haiti,HTI,5330,5070.000172,6150.000095,6699.999809,7320.000172,9010.000229,9729.999542,10369.99989,10399.99962
+Total greenhouse gas emissions (% change from 1990),Sri Lanka,LKA,0,12.92470983,17.96955084,11.84574914,26.68028906,65.68814403,0,0,0
+Total greenhouse gas emissions (% change from 1990),United Kingdom,GBR,0,-6.248548156,-4.230511946,-9.273342563,-13.29656986,-24.63375595,0,0,0
+Total greenhouse gas emissions (% change from 1990),Ireland,IRL,0,3.364946006,6.966353513,-0.298504836,3.90358859,-4.803331492,0,0,0
+Total greenhouse gas emissions (% change from 1990),Iceland,ISL,0,-3.570280173,-2.662584149,-83.524597,-81.05633018,-74.65718811,0,0,0
+Total greenhouse gas emissions (% change from 1990),Australia,AUS,0,8.320842342,5.512058843,90.91370476,124.18584,57.92847163,0,0,0
+Total greenhouse gas emissions (% change from 1990),New Zealand,NZL,0,3.658090568,7.418819571,5.869675356,13.29431623,18.93925642,0,0,0
+Total greenhouse gas emissions (% change from 1990),Niger,NER,0,15.38846398,21.26580048,50.10431897,60.54028668,65.39843902,0,0,0
+Total greenhouse gas emissions (% change from 1990),Chad,TCD,0,-11.13973126,-3.041505292,501.5718261,604.79668,498.7255734,0,0,0
+Total greenhouse gas emissions (% change from 1990),Bangladesh,BGD,0,3.625770724,9.710365677,1.916162196,7.348918202,44.67096196,0,0,0
+Total greenhouse gas emissions (% change from 1990),Haiti,HTI,0,-3.269813793,17.048778,26.00278623,34.01371894,64.93352333,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),United Kingdom,GBR,2617.8,0,0,0,6332.5,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Ireland,IRL,1.2,0,0,0,416.3,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Iceland,ISL,0,0,0,0,22.3,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Australia,AUS,612.5,0,0,0,2545.7,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),New Zealand,NZL,0.2,0,0,0,347.3,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Niger,NER,0,0,0,0,0,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Chad,TCD,0,0,0,0,0,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+HFC gas emissions (thousand metric tons of CO2 equivalent),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Methane emissions (kt of CO2 equivalent),Sri Lanka,LKA,17860.00061,18430.00031,15890.00034,11119.99989,7300.000191,8939.99958,8000,8470.000267,8430.000305
+Methane emissions (kt of CO2 equivalent),United Kingdom,GBR,109010.0021,112580.0018,114040.0009,112400.0015,106000,56779.99878,50759.99832,51599.99847,50779.99878
+Methane emissions (kt of CO2 equivalent),Ireland,IRL,15470.00027,15939.99958,15979.99954,16430.00031,16969.99931,14869.99989,15619.99989,16530.00069,15430.00031
+Methane emissions (kt of CO2 equivalent),Iceland,ISL,509.9999905,540.0000215,560.0000024,569.9999928,579.9999833,540.0000215,560.0000024,550.0000119,540.0000215
+Methane emissions (kt of CO2 equivalent),Australia,AUS,138830.0018,136210.0067,127370.0027,131110.0006,156050.0031,162619.9951,137669.9982,118379.9973,140600.0061
+Methane emissions (kt of CO2 equivalent),New Zealand,NZL,32860.00061,32900.00153,33229.99954,32840.00015,32619.99893,33869.99893,33979.99954,33080.00183,32709.99908
+Methane emissions (kt of CO2 equivalent),Niger,NER,8649.999619,10069.99969,10869.99989,11829.99992,12560.00042,19750,21940.00053,23840.00015,26100.00038
+Methane emissions (kt of CO2 equivalent),Chad,TCD,9069.999695,15119.99989,17430.00031,18520.00046,21309.99947,36639.99939,40060.00137,46279.99878,50720.00122
+Methane emissions (kt of CO2 equivalent),Bangladesh,BGD,66260.00214,68470.00122,69050.00305,69269.99664,72139.99939,87000,88739.99786,89900.00153,92050.00305
+Methane emissions (kt of CO2 equivalent),Haiti,HTI,3329.999924,3769.999981,3880.000114,4079.999924,4389.999866,4929.999828,4980.000019,5179.999828,5239.999771
+Methane emissions (% change from 1990),Sri Lanka,LKA,0,1.836878262,-12.59933473,-19.09710703,-16.57098688,3.034696589,0,0,0
+Methane emissions (% change from 1990),United Kingdom,GBR,0,-11.40209028,-11.85146728,-18.96685845,-26.50354055,-49.80251989,0,0,0
+Methane emissions (% change from 1990),Ireland,IRL,0,3.650912548,5.748260613,8.938217542,7.291741692,3.211026398,0,0,0
+Methane emissions (% change from 1990),Iceland,ISL,0,-1.3336416,-1.197263064,-0.128476775,-1.513333489,4.996347918,0,0,0
+Methane emissions (% change from 1990),Australia,AUS,0,7.062961355,-1.419887104,1.531914894,11.27485888,9.064866328,0,0,0
+Methane emissions (% change from 1990),New Zealand,NZL,0,1.043071666,0.957647694,-0.077181309,-0.399019872,7.370646386,0,0,0
+Methane emissions (% change from 1990),Niger,NER,0,15.97532225,22.40762653,30.41086251,37.21830797,53.68048459,0,0,0
+Methane emissions (% change from 1990),Chad,TCD,0,-6.319837411,0.916553758,6.54140432,17.87180202,82.95086475,0,0,0
+Methane emissions (% change from 1990),Bangladesh,BGD,0,-2.418916855,-0.51255731,-1.455805136,2.473800904,20.72378052,0,0,0
+Methane emissions (% change from 1990),Haiti,HTI,0,13.1909825,17.60964269,20.22437942,24.93296128,38.67916041,0,0,0
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Sri Lanka,LKA,2180,2370,2290,2300,2450,2830,3120,2530,2240
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),United Kingdom,GBR,58120,48550,47710,46830,36050,27660,28470,28100,28130
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Ireland,IRL,10030,10370,10220,10750,10610,9320,9210,9380,9510
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Iceland,ISL,390,370,380,380,380,360,370,370,380
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Australia,AUS,78290,75920,69970,73340,98360,106510,75330,57330,76800
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),New Zealand,NZL,15030,14940,14880,14480,14790,14760,14900,15100,15190
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Niger,NER,3650,4340,4780,5250,5690,9180,10120,11050,12110
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Chad,TCD,5960,9110,10780,11070,13050,18610,19970,23170,25220
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Bangladesh,BGD,16430,18570,20380,19950,21360,26600,27680,27420,29330
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),Haiti,HTI,980,1110,1200,1290,1430,1500,1530,1600,1600
+Nitrous oxide emissions (% change from 1990),Sri Lanka,LKA,0,13.36272209,14.01921193,5.184261158,16.20028754,23.57609362,0,0,0
+Nitrous oxide emissions (% change from 1990),United Kingdom,GBR,0,-8.908895238,-7.271664491,-8.457113514,-40.45440392,-55.3541662,0,0,0
+Nitrous oxide emissions (% change from 1990),Ireland,IRL,0,4.294131222,1.563829634,8.149438218,3.554584397,-15.06290786,0,0,0
+Nitrous oxide emissions (% change from 1990),Iceland,ISL,0,-1.704998141,-1.925805644,-2.317340597,-3.819742164,-9.688920697,0,0,0
+Nitrous oxide emissions (% change from 1990),Australia,AUS,0,16.07979022,-3.845585118,0.949320295,20.17379561,-13.74697749,0,0,0
+Nitrous oxide emissions (% change from 1990),New Zealand,NZL,0,4.288254706,5.151155007,5.060323396,9.870564955,13.01575758,0,0,0
+Nitrous oxide emissions (% change from 1990),Niger,NER,0,19.67228672,24.9045483,38.20949043,38.35709529,20.01186601,0,0,0
+Nitrous oxide emissions (% change from 1990),Chad,TCD,0,-16.1158615,-6.89596786,-4.948395687,11.07164572,84.50058877,0,0,0
+Nitrous oxide emissions (% change from 1990),Bangladesh,BGD,0,26.83046768,38.06890587,31.97315097,28.19875016,64.69448133,0,0,0
+Nitrous oxide emissions (% change from 1990),Haiti,HTI,0,12.21969849,20.60601314,37.36263736,54.02663652,64.26245586,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),United Kingdom,GBR,1552.5,0,0,0,890.1,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Ireland,IRL,1.4,0,0,0,415.6,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Iceland,ISL,1033.4,0,0,0,104.6,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Australia,AUS,3875.2,0,0,0,1181.4,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),New Zealand,NZL,891.8,0,0,0,352.6,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Niger,NER,0,0,0,0,0,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Chad,TCD,0,0,0,0,0,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+PFC gas emissions (thousand metric tons of CO2 equivalent),Haiti,HTI,0,0,0,0,0,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),United Kingdom,GBR,1073.9,0,0,0,1154.1,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Ireland,IRL,33.8,0,0,0,76.5,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Iceland,ISL,3.5,0,0,0,17.9,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Australia,AUS,385.1,0,0,0,471.2,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),New Zealand,NZL,49.4,0,0,0,58.4,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Niger,NER,0,0,0,0,0,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Chad,TCD,0,0,0,0,0,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+SF6 gas emissions (thousand metric tons of CO2 equivalent),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),United Kingdom,GBR,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Ireland,IRL,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Australia,AUS,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),New Zealand,NZL,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Niger,NER,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Chad,TCD,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+Disaster risk reduction progress score (1-5 scale; 5=best),Haiti,HTI,0,0,0,0,0,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),United Kingdom,GBR,3.921699275,2.077697392,2.217383391,1.353406955,0.422457399,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Ireland,IRL,-0.565011826,-0.982249712,-0.725012814,-1.131534366,-0.788148082,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Iceland,ISL,1.10473484,1.074152277,1.046929915,1.012182113,0.931444893,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Australia,AUS,43.14817028,-19.68269726,-1.695694435,127.285895,-13.50499191,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),New Zealand,NZL,-23.45107498,-22.81719974,-22.17416679,-25.95639312,-26.71486662,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Niger,NER,0,0,0,0,-16.79,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Chad,TCD,0,0,0,0,0,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Bangladesh,BGD,0,7.838,0,0,0,0,0,0,0
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),Haiti,HTI,0,0.9551,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",United Kingdom,GBR,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Ireland,IRL,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Iceland,ISL,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Australia,AUS,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",New Zealand,NZL,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Niger,NER,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Chad,TCD,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",Haiti,HTI,0,0,0,0,0,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Sri Lanka,LKA,2.221926334,0,0,0,1.528641272,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),United Kingdom,GBR,1.061751696,0,0,0,1.120142284,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Ireland,IRL,1.481223273,0,0,0,1.433943459,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Iceland,ISL,4.871275584,0,0,0,4.702751779,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Australia,AUS,0.893543655,0,0,0,0.928443698,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),New Zealand,NZL,1.001489444,0,0,0,0.985353098,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Niger,NER,0,0,0,0,0,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Chad,TCD,0,0,0,0,0,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Bangladesh,BGD,7.438976677,0,0,0,7.188263303,0,0,0,0
+Rural population living in areas where elevation is below 5 meters (% of total population),Haiti,HTI,1.14877363,0,0,0,1.086009936,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Sri Lanka,LKA,1.584819487,0,0,0,1.456571055,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),United Kingdom,GBR,4.206058661,0,0,0,4.196341786,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Ireland,IRL,3.354253398,0,0,0,3.324346043,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Iceland,ISL,2.801721779,0,0,0,2.945942819,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Australia,AUS,3.444101866,0,0,0,3.584147483,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),New Zealand,NZL,3.385590558,0,0,0,3.248132433,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Niger,NER,0,0,0,0,0,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Chad,TCD,0,0,0,0,0,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Bangladesh,BGD,1.59768861,0,0,0,1.730211444,0,0,0,0
+Urban population living in areas where elevation is below 5 meters (% of total population),Haiti,HTI,0.651070167,0,0,0,0.742615467,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Sri Lanka,LKA,3.806745821,0,0,0,2.985212327,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),United Kingdom,GBR,5.267810357,0,0,0,5.31648407,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Ireland,IRL,4.835476671,0,0,0,4.758289502,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Iceland,ISL,7.672997363,0,0,0,7.648694598,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Australia,AUS,4.337645521,0,0,0,4.512591181,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),New Zealand,NZL,4.387080002,0,0,0,4.233485531,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Niger,NER,0,0,0,0,0,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Chad,TCD,0,0,0,0,0,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Bangladesh,BGD,9.036665287,0,0,0,8.918474747,0,0,0,0
+Population living in areas where elevation is below 5 meters (% of total population),Haiti,HTI,1.799843797,0,0,0,1.828625403,0,0,0,0
+Population in urban agglomerations of more than 1 million (% of total population),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+Population in urban agglomerations of more than 1 million (% of total population),United Kingdom,GBR,25.54600119,25.60999603,25.65624465,25.69617653,25.70146522,26.29891124,26.47444213,26.61543822,26.83045848
+Population in urban agglomerations of more than 1 million (% of total population),Ireland,IRL,26.07833752,26.15309329,26.23132308,26.15859203,25.97881201,24.47050603,24.69547463,24.72067688,24.68354222
+Population in urban agglomerations of more than 1 million (% of total population),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Population in urban agglomerations of more than 1 million (% of total population),Australia,AUS,61.1993308,61.29451694,61.0644476,60.01842766,58.89639743,59.68724961,60.03789197,60.52645318,60.89161823
+Population in urban agglomerations of more than 1 million (% of total population),New Zealand,NZL,26.1181152,26.89066298,27.75050911,28.10739187,28.78124271,31.28141376,31.78977084,31.7151312,31.76906909
+Population in urban agglomerations of more than 1 million (% of total population),Niger,NER,5.459926205,5.751405165,5.88654265,6.016336485,6.142128168,5.693970776,5.592987634,5.497867144,5.408323932
+Population in urban agglomerations of more than 1 million (% of total population),Chad,TCD,7.99703182,8.186614565,8.231225212,8.257562722,8.255703264,8.328744532,8.377259166,8.449861959,8.545692788
+Population in urban agglomerations of more than 1 million (% of total population),Bangladesh,BGD,8.377782346,9.262072476,9.690985189,10.14669471,10.64832419,13.30373397,13.86836698,14.47151367,15.11616239
+Population in urban agglomerations of more than 1 million (% of total population),Haiti,HTI,16.11657714,17.98623788,18.88968003,19.19907568,20.00836031,22.00125023,22.52262227,23.08992197,23.70511211
+"Annual freshwater withdrawals, total (billion cubic meters)",Sri Lanka,LKA,0,0,0,0,0,12.946,0,0,12.946
+"Annual freshwater withdrawals, total (billion cubic meters)",United Kingdom,GBR,0,0,0,0,0,8.017,0,0,8.419
+"Annual freshwater withdrawals, total (billion cubic meters)",Ireland,IRL,0,0,0,0,0,0.980333333,0,0,1.427
+"Annual freshwater withdrawals, total (billion cubic meters)",Iceland,ISL,0,0,0,0,0,0.294,0,0,0.29
+"Annual freshwater withdrawals, total (billion cubic meters)",Australia,AUS,0,0,0,0,0,15.868,0,0,11.58411
+"Annual freshwater withdrawals, total (billion cubic meters)",New Zealand,NZL,0,0,0,0,0,7.538,0,0,9.875
+"Annual freshwater withdrawals, total (billion cubic meters)",Niger,NER,0,0,0,0,0,1.394188889,0,0,1.7472
+"Annual freshwater withdrawals, total (billion cubic meters)",Chad,TCD,0,0,0,0,0,0.8796,0,0,0.8796
+"Annual freshwater withdrawals, total (billion cubic meters)",Bangladesh,BGD,0,0,0,0,0,35.87,0,0,35.87
+"Annual freshwater withdrawals, total (billion cubic meters)",Haiti,HTI,0,0,0,0,0,1.45,0,0,1.45
+"Annual freshwater withdrawals, total (% of internal resources)",Sri Lanka,LKA,0,0,0,0,0,24.51893939,0,0,24.51893939
+"Annual freshwater withdrawals, total (% of internal resources)",United Kingdom,GBR,0,0,0,0,0,5.528965517,0,0,5.806206897
+"Annual freshwater withdrawals, total (% of internal resources)",Ireland,IRL,0,0,0,0,0,2.000680272,0,0,2.912244898
+"Annual freshwater withdrawals, total (% of internal resources)",Iceland,ISL,0,0,0,0,0,0.172941176,0,0,0.170588235
+"Annual freshwater withdrawals, total (% of internal resources)",Australia,AUS,0,0,0,0,0,3.225203252,0,0,2.354493902
+"Annual freshwater withdrawals, total (% of internal resources)",New Zealand,NZL,0,0,0,0,0,2.305198777,0,0,3.019877676
+"Annual freshwater withdrawals, total (% of internal resources)",Niger,NER,0,0,0,0,0,39.83396825,0,0,49.92
+"Annual freshwater withdrawals, total (% of internal resources)",Chad,TCD,0,0,0,0,0,5.864,0,0,5.864
+"Annual freshwater withdrawals, total (% of internal resources)",Bangladesh,BGD,0,0,0,0,0,34.16190476,0,0,34.16190476
+"Annual freshwater withdrawals, total (% of internal resources)",Haiti,HTI,0,0,0,0,0,11.14784347,0,0,11.14784347
+Terrestrial protected areas (% of total land area),Sri Lanka,LKA,0,0,0,0,0,0,0,29.86,29.8619989
+Terrestrial protected areas (% of total land area),United Kingdom,GBR,0,0,0,0,0,0,0,28.24,28.68343728
+Terrestrial protected areas (% of total land area),Ireland,IRL,0,0,0,0,0,0,0,14.44,14.44126185
+Terrestrial protected areas (% of total land area),Iceland,ISL,0,0,0,0,0,0,0,17.44,18.15153229
+Terrestrial protected areas (% of total land area),Australia,AUS,0,0,0,0,0,0,0,16.98,19.26562231
+Terrestrial protected areas (% of total land area),New Zealand,NZL,0,0,0,0,0,0,0,32.55,32.54525586
+Terrestrial protected areas (% of total land area),Niger,NER,0,0,0,0,0,0,0,17.32,17.31709252
+Terrestrial protected areas (% of total land area),Chad,TCD,0,0,0,0,0,0,0,20.35,20.3544358
+Terrestrial protected areas (% of total land area),Bangladesh,BGD,0,0,0,0,0,0,0,4.61,4.605962812
+Terrestrial protected areas (% of total land area),Haiti,HTI,0,0,0,0,0,0,0,0.27,1.949882981
+Marine protected areas (% of territorial waters),Sri Lanka,LKA,0,0,0,0,0,0,0,0.07470721,0.074625654
+Marine protected areas (% of territorial waters),United Kingdom,GBR,0,0,0,0,0,0,0,20.23542286,28.87330555
+Marine protected areas (% of territorial waters),Ireland,IRL,0,0,0,0,0,0,0,2.332323504,2.332110624
+Marine protected areas (% of territorial waters),Iceland,ISL,0,0,0,0,0,0,0,0.380321832,0.380335278
+Marine protected areas (% of territorial waters),Australia,AUS,0,0,0,0,0,0,0,40.65344145,40.5594116
+Marine protected areas (% of territorial waters),New Zealand,NZL,0,0,0,0,0,0,0,30.34299947,30.3711096
+Marine protected areas (% of territorial waters),Niger,NER,0,0,0,0,0,0,0,0,0
+Marine protected areas (% of territorial waters),Chad,TCD,0,0,0,0,0,0,0,0,0
+Marine protected areas (% of territorial waters),Bangladesh,BGD,0,0,0,0,0,0,0,5.356940135,5.3571902
+Marine protected areas (% of territorial waters),Haiti,HTI,0,0,0,0,0,0,0,0,0
+Terrestrial and marine protected areas (% of total territorial area),Sri Lanka,LKA,0,0,0,0,0,0,0,3.378798485,3.378642523
+Terrestrial and marine protected areas (% of total territorial area),United Kingdom,GBR,0,0,0,0,0,0,0,22.26206452,28.8252339
+Terrestrial and marine protected areas (% of total territorial area),Ireland,IRL,0,0,0,0,0,0,0,4.042933717,4.042231006
+Terrestrial and marine protected areas (% of total territorial area),Iceland,ISL,0,0,0,0,0,0,0,2.421746696,2.50646685
+Terrestrial and marine protected areas (% of total territorial area),Australia,AUS,0,0,0,0,0,0,0,28.59184172,29.70879373
+Terrestrial and marine protected areas (% of total territorial area),New Zealand,NZL,0,0,0,0,0,0,0,30.47868878,30.50506322
+Terrestrial and marine protected areas (% of total territorial area),Niger,NER,0,0,0,0,0,0,0,17.31713513,17.31709252
+Terrestrial and marine protected areas (% of total territorial area),Chad,TCD,0,0,0,0,0,0,0,20.35444537,20.3544358
+Terrestrial and marine protected areas (% of total territorial area),Bangladesh,BGD,0,0,0,0,0,0,0,4.88867648,4.888648581
+Terrestrial and marine protected areas (% of total territorial area),Haiti,HTI,0,0,0,0,0,0,0,0.270169623,0.353092294
+"Agriculture, forestry, and fishing, value added (% of GDP)",Sri Lanka,LKA,26.68499557,23.97383949,22.53906328,21.16449052,19.92731504,7.449325527,8.006609793,7.426799696,8.023787716
+"Agriculture, forestry, and fishing, value added (% of GDP)",United Kingdom,GBR,1.305915153,1.325109636,1.098452465,0.965524011,0.850705508,0.637404835,0.746524021,0.566834504,0.576624141
+"Agriculture, forestry, and fishing, value added (% of GDP)",Ireland,IRL,0,0,4.690114819,3.475354607,2.504929039,0.987786848,1.245880671,0.947349104,0.888696523
+"Agriculture, forestry, and fishing, value added (% of GDP)",Iceland,ISL,0,0,8.580027618,8.134580093,7.003858574,6.561182304,5.277859894,4.581221123,3.922777196
+"Agriculture, forestry, and fishing, value added (% of GDP)",Australia,AUS,4.195576033,3.338491014,3.381343685,3.031033792,3.114903237,2.268096365,2.220946068,2.404231293,2.457803973
+"Agriculture, forestry, and fishing, value added (% of GDP)",New Zealand,NZL,5.988676816,6.507726269,6.437127229,5.946117986,7.75290181,5.517520426,4.776857461,5.551643928,5.662576267
+"Agriculture, forestry, and fishing, value added (% of GDP)",Niger,NER,29.44224837,31.16929417,32.32870033,35.41378097,36.57556007,33.68099382,33.42904423,35.26295821,37.66166253
+"Agriculture, forestry, and fishing, value added (% of GDP)",Chad,TCD,27.8887351,37.21826977,37.54791875,39.00494665,40.70509403,54.89981381,50.64757656,46.12580311,45.09623634
+"Agriculture, forestry, and fishing, value added (% of GDP)",Bangladesh,BGD,30.4898331,26.72553755,23.26620805,22.58741576,22.71814808,16.17756317,15.3516209,13.46479232,12.48007719
+"Agriculture, forestry, and fishing, value added (% of GDP)",Haiti,HTI,29.73675139,33.92825808,19.4953609,21.16247282,17.18551672,19.46990359,17.83874566,18.08841224,18.64785769
+Population growth (annual %),Sri Lanka,LKA,1.272169144,0.941985268,0.67944701,0.505991387,0.610633603,0.12984681,0.933207943,1.104983619,1.048392958
+Population growth (annual %),United Kingdom,GBR,0.298930554,0.254586487,0.254626384,0.291406085,0.357300887,0.695353132,0.736463979,0.757874493,0.605929132
+Population growth (annual %),Ireland,IRL,0.084413021,0.394187639,0.791271347,1.043076836,1.333042666,0.423743803,0.731001377,1.128834064,1.238875453
+Population growth (annual %),Iceland,ISL,0.777662199,0.866835947,0.539913017,1.070859043,1.369192833,0.532100735,1.112504755,1.388081496,2.678142769
+Population growth (annual %),Australia,AUS,1.479978016,1.058508842,1.313819299,1.042235716,1.192272323,1.745820001,1.491566489,1.561940498,1.536105516
+Population growth (annual %),New Zealand,NZL,0.923222729,1.329237335,1.582661927,0.887279889,0.587564086,0.548220797,1.661012001,2.2460321,1.791240168
+Population growth (annual %),Niger,NER,3.11725863,3.417334159,3.48239291,3.54723052,3.608767553,3.898743038,3.899846968,3.859843092,3.816736721
+Population growth (annual %),Chad,TCD,3.226267661,3.25442423,3.3775422,3.490820674,3.68276825,3.370767564,3.296899421,3.143932997,3.023504548
+Population growth (annual %),Bangladesh,BGD,2.429600981,2.140079812,2.130477876,2.077336931,1.952390462,1.154006105,1.142930216,1.095288404,1.0535703
+Population growth (annual %),Haiti,HTI,2.011596519,1.880610177,1.827131628,1.776726006,1.724801191,1.480054624,1.416131282,1.341394984,1.274050225
+"Population, total",Sri Lanka,LKA,17325769,18094474,18367290,18564595,18777606,20425000,20778000,21203000,21670000
+"Population, total",United Kingdom,GBR,57247586,57865745,58166950,58487141,58892514,63700215,64602298,65611593,66460344
+"Population, total",Ireland,IRL,3513974,3590386,3637510,3712696,3805174,4599533,4657740,4755335,4867316
+"Population, total",Iceland,ISL,254826,266021,268916,274047,281205,320716,327386,335439,352721
+"Population, total",Australia,AUS,17065100,17855000,18311000,18711000,19153000,22733465,23475686,24190907,24982688
+"Population, total",New Zealand,NZL,3329800,3620000,3732000,3815000,3857700,4408100,4516500,4714100,4900600
+"Population, total",Niger,NER,8026592,9168316,9826600,10545720,11331561,17795209,19240182,20788789,22442831
+"Population, total",Chad,TCD,5963250,6781057,7250974,7770053,8355654,12784748,13663562,14561658,15477727
+"Population, total",Bangladesh,BGD,103171957,112737684,117649927,122682818,127657862,151005733,154517385,157977151,161376713
+"Population, total",Haiti,HTI,7037915,7602318,7887312,8174680,8463802,10250922,10549007,10839976,11123183
+Urban population growth (annual %),Sri Lanka,LKA,1.185860606,0.855412382,0.592726014,0.419142276,0.523631902,0.047447938,1.043056733,1.405798247,1.547574095
+Urban population growth (annual %),United Kingdom,GBR,0.234964714,0.332530132,0.331173754,0.367838511,0.433615661,1.02214552,1.05628515,1.072051621,0.912161082
+Urban population growth (annual %),Ireland,IRL,0.304190815,0.774278032,1.17710047,1.461582802,1.74810267,0.747174721,1.05070778,1.446547047,1.59251568
+Urban population growth (annual %),Iceland,ISL,1.027072119,1.056099063,0.722045346,1.245970553,1.514278587,0.545808759,1.148908265,1.425397053,2.720893704
+Urban population growth (annual %),Australia,AUS,1.444867463,0.906907711,1.159392068,0.884967262,1.032138731,1.865330137,1.608455102,1.677390128,1.661749259
+Urban population growth (annual %),New Zealand,NZL,1.202097773,1.505046766,1.754334676,0.980491145,0.680613208,0.619042484,1.730568118,2.314333999,1.8744789
+Urban population growth (annual %),Niger,NER,3.63268406,3.934884593,4.00091333,4.066665285,4.122869686,3.874066906,3.967682432,4.124171521,4.274416048
+Urban population growth (annual %),Chad,TCD,4.235629473,3.403820093,3.531104926,3.643884466,3.835412225,3.768992217,3.852700209,3.860875325,3.899007628
+Urban population growth (annual %),Bangladesh,BGD,4.887505531,3.851949035,3.826245867,3.756709974,3.610831945,3.583813258,3.474966592,3.32910046,3.189119712
+Urban population growth (annual %),Haiti,HTI,5.964547751,3.76459877,3.681604963,3.52801112,3.4474339,3.49097246,3.347419471,3.172808899,2.97445002
+Urban population,Sri Lanka,LKA,3211331,3342592,3387296,3417928,3451324,3716533,3785336,3882481,4003749
+Urban population,United Kingdom,GBR,44733264,45304828,45610451,45931122,46319551,52130345,53209683,54382825,55426598
+Urban population,Ireland,IRL,2000470,2072766,2116049,2178016,2250951,2849043,2903635,2983355,3074684
+Urban population,Iceland,ISL,231255,243303,246857,252455,259836,300190,306653,314424,330898
+Urban population,Australia,AUS,14579227,15181749,15521685,15811356,16133530,19414834,20095657,20755798,21488110
+Urban population,New Zealand,NZL,2821739,3091625,3198324,3275597,3318432,3798063,3896881,4072982,4240881
+Urban population,Niger,NER,1233527,1438600,1558007,1689424,1834126,2884959,3120565,3386494,3686235
+Urban population,Chad,TCD,1241012,1453859,1559394,1676078,1807913,2830799,3056812,3302147,3569009
+Urban population,Bangladesh,BGD,20439396,24044693,25958280,27993765,30114490,48311264,51817405,55423124,59115518
+Urban population,Haiti,HTI,2006510,2431753,2618588,2811191,3013114,5071849,5426831,5788114,6148673
+Urban population (% of total population),Sri Lanka,LKA,18.535,18.473,18.442,18.411,18.38,18.196,18.218,18.311,18.476
+Urban population (% of total population),United Kingdom,GBR,78.14,78.293,78.413,78.532,78.651,81.837,82.365,82.886,83.398
+Urban population (% of total population),Ireland,IRL,56.929,57.731,58.173,58.664,59.155,61.942,62.34,62.737,63.17
+Urban population (% of total population),Iceland,ISL,90.75,91.46,91.797,92.121,92.401,93.6,93.667,93.735,93.813
+Urban population (% of total population),Australia,AUS,85.433,85.028,84.767,84.503,84.235,85.402,85.602,85.8,86.012
+Urban population (% of total population),New Zealand,NZL,84.742,85.404,85.7,85.861,86.021,86.161,86.281,86.4,86.538
+Urban population (% of total population),Niger,NER,15.368,15.691,15.855,16.02,16.186,16.212,16.219,16.29,16.425
+Urban population (% of total population),Chad,TCD,20.811,21.44,21.506,21.571,21.637,22.142,22.372,22.677,23.059
+Urban population (% of total population),Bangladesh,BGD,19.811,21.328,22.064,22.818,23.59,31.993,33.535,35.083,36.632
+Urban population (% of total population),Haiti,HTI,28.51,31.987,33.2,34.389,35.6,49.477,51.444,53.396,55.278
+"Foreign direct investment, net inflows (% of GDP)",Sri Lanka,LKA,0.539742839,1.420195947,0.862545736,1.224592312,1.05898829,1.375209636,1.126094958,1.088638432,1.834911534
+"Foreign direct investment, net inflows (% of GDP)",United Kingdom,GBR,3.78380568,1.71516995,2.280149905,6.641959239,9.874714492,1.719311046,1.907589447,11.92915477,-0.863744975
+"Foreign direct investment, net inflows (% of GDP)",Ireland,IRL,1.261338653,1.500900491,3.45356359,9.825138434,25.72602624,25.76108011,37.60373441,34.42823539,17.49465847
+"Foreign direct investment, net inflows (% of GDP)",Iceland,ISL,-0.074252336,0.037471059,1.122819289,1.811949116,1.719106723,6.942777097,4.291415023,-5.128063967,-2.370719438
+"Foreign direct investment, net inflows (% of GDP)",Australia,AUS,2.716688879,1.38115953,1.137888703,1.90223486,3.583693629,3.72131318,4.306815708,3.560954294,4.292849405
+"Foreign direct investment, net inflows (% of GDP)",New Zealand,NZL,3.703172576,4.730440856,5.586784108,3.247136192,-2.865294556,2.183166076,1.615174167,1.063402299,1.187285639
+"Foreign direct investment, net inflows (% of GDP)",Niger,NER,1.161884875,0.210312273,0.358757856,-0.066754008,0.703342943,8.92367847,7.575911354,2.89774471,3.638493439
+"Foreign direct investment, net inflows (% of GDP)",Chad,TCD,0.540663174,2.294781148,2.4553635,1.243509246,8.294696694,4.688089172,-4.845829959,2.42312826,4.100753247
+"Foreign direct investment, net inflows (% of GDP)",Bangladesh,BGD,0.010249846,0.033012231,0.029134955,0.380236167,0.525362089,1.18810285,1.468712877,0.879489436,0.753510983
+"Foreign direct investment, net inflows (% of GDP)",Haiti,HTI,0.258373748,-0.129177254,0.141013913,0.28894367,0.194464654,1.137944684,0.653928722,0.74994493,0.638102588
+Ease of doing business rank (1=most business-friendly regulations),Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),United Kingdom,GBR,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Ireland,IRL,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Australia,AUS,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),New Zealand,NZL,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Niger,NER,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Chad,TCD,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+Ease of doing business rank (1=most business-friendly regulations),Haiti,HTI,0,0,0,0,0,0,0,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),Sri Lanka,LKA,0,0,0,0,0,3.4,3.3,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),United Kingdom,GBR,0,0,0,0,0,0,0,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),Ireland,IRL,0,0,0,0,0,0,0,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),Iceland,ISL,0,0,0,0,0,0,0,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),Australia,AUS,0,0,0,0,0,0,0,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),New Zealand,NZL,0,0,0,0,0,0,0,0,0
+CPIA public sector management and institutions cluster average (1=low to 6=high),Niger,NER,0,0,0,0,0,3.2,3.2,3.1,3.1
+CPIA public sector management and institutions cluster average (1=low to 6=high),Chad,TCD,0,0,0,0,0,2.2,2.6,2.7,2.6
+CPIA public sector management and institutions cluster average (1=low to 6=high),Bangladesh,BGD,0,0,0,0,0,2.9,2.9,2.8,2.7
+CPIA public sector management and institutions cluster average (1=low to 6=high),Haiti,HTI,0,0,0,0,0,2.5,2.4,2.4,2.5
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Sri Lanka,LKA,1.021209955,1.036720037,0,0,0,1.018329978,0,1.011459947,1.024160028
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",United Kingdom,GBR,1.018970013,0,0,1.002560019,1.005599976,0.999750018,1.02165997,0,1.01304996
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Ireland,IRL,1.048390031,1.023339987,1.038130045,1.023130059,1.027959943,1.010529995,1.007410049,1.006909966,1.06024003
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Iceland,ISL,0,0.990270019,0.989639997,1.006850004,1.02583003,0.997690022,1.014430046,1.001019955,0.994610012
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Australia,AUS,0,0.996439993,0.997550011,0,0,0,0,0.925170004,0.968850017
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",New Zealand,NZL,0.992280006,1.011710048,1.026450038,1.030099988,1.033220053,1.038030028,1.038159966,1.037799954,1.03718996
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Niger,NER,0.528339982,0,0.59819001,0.625339985,0.646839976,0.81020999,0.826129973,0.83138001,0
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Chad,TCD,0.414909989,0.445650011,0.456470013,0.508880019,0.561860025,0.692629993,0.694100022,0.69907999,0.727490008
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Bangladesh,BGD,0.753639996,0,0,0,0,0,0,0,1.115910053
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",Haiti,HTI,0,0,0,0,0,0,0,0,0
+"Primary completion rate, total (% of relevant age group)",Sri Lanka,LKA,97.43482208,0,0,97.34510803,0,97.25627899,98.10511017,101.1092682,0
+"Primary completion rate, total (% of relevant age group)",United Kingdom,GBR,0,0,0,0,0,0,0,100.8825531,100.5974579
+"Primary completion rate, total (% of relevant age group)",Ireland,IRL,0,98.89147186,0,92.45108032,96.64121246,0,99.83773041,99.69187927,97.32833862
+"Primary completion rate, total (% of relevant age group)",Iceland,ISL,0,0,0,89.40071106,99.78250122,98.16384125,98.06101227,99.95250702,99.20509338
+"Primary completion rate, total (% of relevant age group)",Australia,AUS,0,0,0,0,0,0,0,0,0
+"Primary completion rate, total (% of relevant age group)",New Zealand,NZL,0,0,0,0,0,0,0,0,0
+"Primary completion rate, total (% of relevant age group)",Niger,NER,16.32300949,0,13.8539896,18.78352928,18.37958908,47.7938118,57.60813904,71.62693787,0
+"Primary completion rate, total (% of relevant age group)",Chad,TCD,16.51408958,18.14903069,14.92397022,0,22.1473999,34.40066147,0,41.32025909,40.56021881
+"Primary completion rate, total (% of relevant age group)",Bangladesh,BGD,0,0,0,0,0,0,0,0,0
+"Primary completion rate, total (% of relevant age group)",Haiti,HTI,0,0,0,0,0,0,0,0,0
+"Mortality rate, under-5 (per 1,000 live births)",Sri Lanka,LKA,22.8,20.7,19.2,17.8,16.5,10.4,9.3,8.2,7.5
+"Mortality rate, under-5 (per 1,000 live births)",United Kingdom,GBR,9.3,7.4,7,6.8,6.5,4.8,4.5,4.4,4.3
+"Mortality rate, under-5 (per 1,000 live births)",Ireland,IRL,9.2,7.4,7.3,7.3,7.1,4,3.8,3.6,3.3
+"Mortality rate, under-5 (per 1,000 live births)",Iceland,ISL,6.5,5.5,5,4.5,4.1,2.5,2.4,2.2,2.1
+"Mortality rate, under-5 (per 1,000 live births)",Australia,AUS,9.2,7.3,6.8,6.4,6.2,4.3,4,3.8,3.7
+"Mortality rate, under-5 (per 1,000 live births)",New Zealand,NZL,11.2,9.1,8.4,7.8,7.4,5.9,5.7,5.4,5
+"Mortality rate, under-5 (per 1,000 live births)",Niger,NER,329.6,292,266,243.9,224.9,108.2,98,90.1,83.5
+"Mortality rate, under-5 (per 1,000 live births)",Chad,TCD,212.1,201.2,196.3,190.6,184,139.8,132.3,124.9,117.3
+"Mortality rate, under-5 (per 1,000 live births)",Bangladesh,BGD,146.1,120.9,108.6,96.8,86,44.4,40.1,36.1,32.4
+"Mortality rate, under-5 (per 1,000 live births)",Haiti,HTI,145.2,128.4,119.9,111.5,103.9,75.6,71.9,67.9,64.1
+"Community health workers (per 1,000 people)",Sri Lanka,LKA,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",United Kingdom,GBR,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",Ireland,IRL,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",Iceland,ISL,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",Australia,AUS,0,0,0.039,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",New Zealand,NZL,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",Niger,NER,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",Chad,TCD,0,0,0,0,0,0,0,0,0
+"Community health workers (per 1,000 people)",Bangladesh,BGD,0,0,0,0,0,0.476,0,0,0
+"Community health workers (per 1,000 people)",Haiti,HTI,0,0,0,0,0,0,0,0,0
+"Prevalence of underweight, weight for age (% of children under 5)",Sri Lanka,LKA,0,0,0,0,22.9,26.1,0,20.5,0
+"Prevalence of underweight, weight for age (% of children under 5)",United Kingdom,GBR,0,0,0,0,0,0,0,0,0
+"Prevalence of underweight, weight for age (% of children under 5)",Ireland,IRL,0,0,0,0,0,0,0,0,0
+"Prevalence of underweight, weight for age (% of children under 5)",Iceland,ISL,0,0,0,0,0,0,0,0,0
+"Prevalence of underweight, weight for age (% of children under 5)",Australia,AUS,0,0,0,0,0,0,0,0,0
+"Prevalence of underweight, weight for age (% of children under 5)",New Zealand,NZL,0,0,0,0,0,0,0,0,0
+"Prevalence of underweight, weight for age (% of children under 5)",Niger,NER,0,0,0,46.9,43.1,32.1,34.6,32,37.5
+"Prevalence of underweight, weight for age (% of children under 5)",Chad,TCD,0,0,0,0,29.2,0,0,0,24.7
+"Prevalence of underweight, weight for age (% of children under 5)",Bangladesh,BGD,61.5,58,54,50.7,42.4,0,32.8,0,21.9
+"Prevalence of underweight, weight for age (% of children under 5)",Haiti,HTI,23.7,23.8,0,0,13.9,11.6,0,0,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Sri Lanka,LKA,11.6,0,0,0,0,2.6,0,1.3,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),United Kingdom,GBR,0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Ireland,IRL,0,0.2,0.2,0,0.2,0.3,0.4,0.1,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Iceland,ISL,0,0,0,0,0,0,0,0,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Australia,AUS,0,0,0,0,0,0,0.5,0.5,0.5
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),New Zealand,NZL,0,0,0,0,0,0,0,0,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Niger,NER,0,85.5,0,0,0,0,53.6,0,50.6
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Chad,TCD,0,0,0,0,0,0,0,0,30.9
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Bangladesh,BGD,0,0,0,0,33.3,0,0,13.5,0
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),Haiti,HTI,0,0,0,0,0,29.2,0,0,0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,
+Last Updated: 09/16/2022,,,,,,,,,,,
