@@ -132,7 +132,7 @@ plt.show()
 
 #The third effect of climate change plotting
 file = 'Data.csv'
-indicator = 'Total greenhouse gas emissions (% change from 1990)'
+indicator = 'Electricity production from oil sources (% of total)'
 df_countri, df_ye, df_da = data_frame(file, indicator)
 
 
@@ -154,11 +154,11 @@ df_countri.plot('Country Name',['1994','1996','1998','2000', '2012']\
                 , kind='bar')
 plt.legend(loc='center left', bbox_to_anchor=(1.0, 0.5))
 plt.xlabel('Country')
-plt.ylabel('Total greenhouse gas emission')
-plt.title('Greenhouse Emission')
+plt.ylabel('Electricity production from oil sources')
+plt.title('Electricity from oil sources')
 plt.xticks(rotation= 'vertical')
 plt.rcParams["figure.dpi"] = 500
-plt.savefig('Greenhouse gas.png',bbox_inches='tight')
+plt.savefig('Electricity.png',bbox_inches='tight')
 plt.show()
 
 
