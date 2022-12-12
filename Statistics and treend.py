@@ -217,18 +217,23 @@ print(Chad_2)
 #Transposing the data to get the indicators as a column
 Chad_3 = Chad_2.T
 
-Chad_3.columns = ['Population', 'Total Greenhouse Gas emission'\
-          ,'Agricultural area','Co2 emission','Forest area']
 
-    
 #Renaming the column containing the years to year
 Chad_3 = Chad_3.reset_index()
 Chad_3 = Chad_3.rename(columns={"index":"Year"})
 
 
+
+Chad_3.columns = ['Year','Population', 'Total Greenhouse Gas emission'\
+          ,'Agricultural area','Co2 emission','Forest area']
+
+# print(Chad_3)
+
+
 #Deleting the rows that are not needed
 Chad_3.drop([0,1,2],axis=0,inplace=True)
-# print(Chad_3)
+Chad_3.drop(['Year'],axis=1,inplace=True)
+print(Chad_3)
 
 
 
@@ -246,17 +251,30 @@ print()
 
 
 #Tofurther understand the data the use of the statistical tool was used
-#to visualize it
+#to visualize it that is HEatmap
 print(Chad_3.describe())
 co = Chad_3.corr().round(2)
 # print(co)
 
-plt.figure(figsize=(10,8))
-plot = sns.heatmap(co, annot = True)
+# plt.figure(figsize=(10,8))
+# plot = sns.heatmap(co, annot = True)
+# plt.title('Chad Heatmap')
+# plt.savefig('Chad Heatmap.png',bbox_inches='tight')
+
+
+
+plt.imshow(co,cmap='terrain',interpolation='none')
+plt.colorbar()
+plt.xticks(range(len(Chad_3.columns)),Chad_3.columns,rotation=90)
+plt.yticks(range(len(Chad_3.columns)),Chad_3.columns)
 plt.title('Chad Heatmap')
-plt.savefig('Chad Heatmap.png',bbox_inches='tight')
+plt.gcf().set_size_inches(10,8)
 
-
+labels= co.values
+for y in range(labels.shape[0]):
+    for x in range(labels.shape[1]):
+        plt.text(x, y, '{:.2f}'.format(labels[y, x]), ha='center', va='center',color='white')
+plt.savefig('Cha.png',bboxx_inches='tight')
 
 
 
@@ -286,19 +304,23 @@ print(Aus_2)
 
 #Transposing the data to get the indicators as a column
 Aus_3 = Aus_2.T
-
-Aus_3.columns = ['Population', 'Total Greenhouse Gas emission'\
-                 , 'Agricultural area','Co2 emission', 'Forest area'\
-                     , 'Electricity production from oil']
-
-    
 #Renaming the column containing the years to year
 Aus_3 = Aus_3.reset_index()
 Aus_3 = Aus_3.rename(columns={"index":"Year"})
 
 
+
+#Renaming the column name
+Aus_3.columns = ['Year','Population', 'Total Greenhouse Gas emission'\
+                 , 'Agricultural area','Co2 emission', 'Forest area'\
+                     , 'Electricity production from oil']
+
+    
+
+
 #Deleting the rows that are not needed
 Aus_3.drop([0,1,2],axis=0,inplace=True)
+Aus_3.drop(['Year'],axis=1,inplace=True)
 # print(Chad_3)
 
 
@@ -317,14 +339,29 @@ print(Aus_3.info())
 
 #The use of a statistical function to understand the
 #mean, standard deviation and other statistical function
+
 print(Aus_3.describe())
 Australia = Aus_3.corr().round(2)
 
 
-plt.figure(figsize=(10,8))
-plot = sns.heatmap(Australia, annot = True)
-plt.title('Australia heat Map')
-plt.savefig('Australia Heatmap.png',bbox_inches='tight')
+# plt.figure(figsize=(10,8))
+# plot = sns.heatmap(Australia, annot = True)
+# plt.title('Australia heat Map')
+# plt.savefig('Australia Heatmap.png',bbox_inches='tight')
+
+plt.imshow(Australia,cmap='terrain',interpolation='none')
+plt.colorbar()
+plt.xticks(range(len(Aus_3.columns)),Aus_3.columns,rotation=90)
+plt.yticks(range(len(Aus_3.columns)),Aus_3.columns)
+plt.title('Australia Heatmap')
+plt.gcf().set_size_inches(10,8)
+
+labels= co.values
+for y in range(labels.shape[0]):
+    for x in range(labels.shape[1]):
+        plt.text(x, y, '{:.2f}'.format(labels[y, x]), ha='center', va='center',color='white')
+plt.savefig('Aus.png',bboxx_inches='tight')
+
 
 
 
